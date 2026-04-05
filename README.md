@@ -83,26 +83,34 @@ mlflow-fert-forecast/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mlflow-fert-forecast.git
+git clone https://github.com/XexFlare/mlflow-fert-forecast.git
 cd mlflow-fert-forecast
-2. Install dependencies
+
+
+### 2. Install dependencies
 pip install -r requirements.txt
 
 Or with conda:
 
 conda env create -f conda.yaml
 conda activate mlflow-fert-forecast
-3. Run the pipeline
+
+
+### 3. Run the pipeline
 mlflow run .
-4. Launch MLflow UI
+
+
+### 4. Launch MLflow UI
 mlflow ui
+
 
 Open in browser:
 
 http://localhost:5000
 📊 What MLflow Tracks
 
-Each run logs:
+
+## Each run logs:
 
 Parameters (e.g., max_depth, n_estimators)
 Metrics (accuracy, F1 score, etc.)
@@ -110,7 +118,7 @@ Model artifacts
 Experiment history
 📈 Example Use Case
 
-Predict future fertilizer demand or identify farmers at risk of reduced purchasing, enabling:
+## Predict future fertilizer demand or identify farmers at risk of reduced purchasing, enabling:
 
 Targeted interventions
 Improved logistics planning
@@ -121,10 +129,13 @@ Integrate real weather data
 Add API for real-time predictions
 Combine with LLMs for explainability
 Deploy via Docker / cloud
-🤝 Contributing
+
+
+# 🤝 Contributing
 
 This project is part of a broader exploration into AI-driven agriculture systems. Contributions and ideas are welcome.
 
-📜 License
+
+# 📜 License
 
 This project is licensed under the MIT License.
