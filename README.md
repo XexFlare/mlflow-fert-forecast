@@ -82,7 +82,6 @@ mlflow-fert-forecast/
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/XexFlare/mlflow-fert-forecast.git
 cd mlflow-fert-forecast
 
