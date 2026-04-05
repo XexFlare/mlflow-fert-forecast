@@ -119,15 +119,16 @@ Experiment history
 
 ## Predict future fertilizer demand or identify farmers at risk of reduced purchasing, enabling:
 
-Targeted interventions
-Improved logistics planning
-Better inventory management
-🔮 Future Improvements
-Add time-series forecasting (Prophet / LSTM)
-Integrate real weather data
-Add API for real-time predictions
-Combine with LLMs for explainability
-Deploy via Docker / cloud
+- Targeted interventions
+- Improved logistics planning
+- Better inventory management
+
+## 🔮 Future Improvements
+- Add time-series forecasting (Prophet / LSTM)
+- Integrate real weather data
+- Add API for real-time predictions
+- Combine with LLMs for explainability
+- Deploy via Docker / cloud
 
 
 # 🤝 Contributing
