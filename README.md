@@ -56,7 +56,7 @@ Models are evaluated using:
 
 ## 📁 Project Structure
 
-
+```
 mlflow-fert-forecast/
 ├── data/
 │ ├── raw/
@@ -74,7 +74,7 @@ mlflow-fert-forecast/
 ├── conda.yaml
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
@@ -111,13 +111,15 @@ http://localhost:5000
 
 ## Each run logs:
 
-Parameters (e.g., max_depth, n_estimators)
-Metrics (accuracy, F1 score, etc.)
-Model artifacts
-Experiment history
-📈 Example Use Case
+- Parameters (e.g., max_depth, n_estimators)
+- Metrics (accuracy, F1 score, etc.)
+- Model artifacts
+- Experiment history
 
-## Predict future fertilizer demand or identify farmers at risk of reduced purchasing, enabling:
+
+## 📈 Example Use Case
+
+### Predict future fertilizer demand or identify farmers at risk of reduced purchasing, enabling:
 
 - Targeted interventions
 - Improved logistics planning
