@@ -1,0 +1,17 @@
+name: farmersworld-churn
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+      - mlflow
+      - scikit-learn
+      - pandas
+      - numpy
+      - matplotlib
+      - seaborn
+      - jupyter
+      - xgboost
+      - category_encoders

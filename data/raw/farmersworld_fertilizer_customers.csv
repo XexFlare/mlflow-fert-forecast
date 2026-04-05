@@ -1,0 +1,1001 @@
+age,gender,district,region,farm_size_hectares,avg_fertilizer_kg,total_purchases,months_since_first_purchase,support_tickets,payment_method,crop_type,churn
+56,Male,Lilongwe,Northern,8.51,397.76,37,48,5,Mobile Money,Tobacco,0
+69,Male,Blantyre,Southern,18.2,296.79,18,36,1,Mobile Money,Soybean,0
+46,Male,Zomba,Central,14.42,79.91,31,40,5,Mobile Money,Groundnuts,0
+32,Female,Lilongwe,Central,12.35,394.93,37,2,3,Bank Transfer,Tobacco,0
+60,Male,Zomba,Central,6.53,312.67,30,42,8,Bank Transfer,Soybean,0
+25,Male,Blantyre,Southern,16.56,401.88,42,9,0,Bank Transfer,Tobacco,0
+38,Male,Lilongwe,Central,19.12,388.29,33,23,7,Bank Transfer,Tobacco,0
+56,Female,Mzuzu,Southern,16.51,411.35,10,15,4,Cash,Maize,0
+36,Female,Blantyre,Southern,0.53,283.1,37,13,0,Mobile Money,Maize,0
+40,Male,Mzuzu,Southern,12.91,113.15,12,23,3,Mobile Money,Tobacco,0
+28,Male,Zomba,Northern,1.5,352.02,30,17,0,Mobile Money,Soybean,0
+28,Male,Zomba,Central,5.52,329.21,27,48,5,Cash,Soybean,0
+41,Male,Blantyre,Central,1.66,384.01,39,2,1,Bank Transfer,Soybean,0
+53,Female,Zomba,Southern,12.27,126.45,9,20,4,Mobile Money,Groundnuts,0
+57,Female,Mzuzu,Southern,13.89,137.74,21,20,6,Bank Transfer,Tobacco,0
+41,Female,Lilongwe,Central,2.73,450.68,12,59,1,Bank Transfer,Tobacco,0
+20,Female,Lilongwe,Southern,7.98,387.49,29,46,5,Cash,Groundnuts,0
+39,Male,Lilongwe,Central,9.4,458.7,33,3,5,Cash,Tobacco,0
+19,Male,Blantyre,Northern,7.7,391.42,43,55,4,Bank Transfer,Tobacco,0
+41,Male,Zomba,Southern,2.86,318.72,15,12,4,Mobile Money,Groundnuts,0
+61,Female,Mzuzu,Central,8.67,344.36,2,40,2,Mobile Money,Maize,0
+47,Male,Zomba,Southern,15.15,450.11,39,2,9,Cash,Tobacco,0
+55,Female,Zomba,Central,1.88,310.46,44,36,9,Cash,Groundnuts,0
+19,Female,Zomba,Central,2.06,334.58,18,14,1,Cash,Soybean,0
+38,Male,Lilongwe,Southern,7.42,120.41,3,16,6,Cash,Maize,1
+50,Male,Mzuzu,Northern,18.86,263.26,7,19,0,Cash,Soybean,0
+29,Male,Mzuzu,Central,13.54,372.38,43,34,5,Cash,Tobacco,0
+39,Female,Zomba,Central,13.73,171.92,18,44,5,Cash,Maize,0
+61,Male,Lilongwe,Central,7.56,141.01,44,46,2,Mobile Money,Groundnuts,0
+42,Female,Lilongwe,Northern,12.08,191.22,38,6,1,Cash,Tobacco,0
+66,Male,Mzuzu,Northern,0.7,158.68,37,13,1,Cash,Groundnuts,0
+44,Female,Lilongwe,Southern,12.9,146.71,33,36,8,Mobile Money,Maize,0
+59,Female,Lilongwe,Northern,18.31,241.18,44,22,4,Mobile Money,Soybean,0
+45,Male,Lilongwe,Southern,12.45,458.53,31,18,6,Bank Transfer,Tobacco,0
+33,Female,Blantyre,Southern,17.54,278.18,11,12,4,Cash,Tobacco,0
+32,Female,Zomba,Northern,14.62,134.56,4,52,6,Cash,Groundnuts,1
+64,Male,Mzuzu,Southern,2.85,84.64,18,59,3,Cash,Maize,0
+68,Female,Mzuzu,Northern,18.1,363.27,4,54,7,Cash,Groundnuts,1
+61,Male,Blantyre,Southern,1.8,222.26,49,30,9,Bank Transfer,Maize,0
+69,Female,Zomba,Northern,10.91,419.82,34,53,9,Mobile Money,Tobacco,0
+20,Male,Mzuzu,Northern,3.27,346.78,29,51,6,Mobile Money,Maize,0
+54,Male,Lilongwe,Southern,0.73,408.31,24,40,9,Cash,Tobacco,0
+68,Female,Mzuzu,Central,8.73,172.38,22,7,4,Cash,Maize,0
+24,Female,Lilongwe,Southern,6.25,361.56,2,32,5,Cash,Soybean,0
+38,Female,Blantyre,Northern,9.98,168.83,44,48,4,Bank Transfer,Maize,0
+26,Female,Lilongwe,Central,11.76,472.58,6,19,6,Bank Transfer,Soybean,1
+56,Female,Mzuzu,Southern,1.35,336.37,42,6,1,Mobile Money,Maize,0
+35,Male,Mzuzu,Southern,2.9,196.03,25,20,4,Cash,Maize,0
+21,Female,Mzuzu,Southern,11.39,171.28,21,27,9,Cash,Groundnuts,0
+42,Male,Blantyre,Central,7.19,135.92,16,53,2,Cash,Groundnuts,0
+31,Male,Blantyre,Northern,14.72,362.59,31,43,8,Cash,Tobacco,0
+67,Female,Zomba,Southern,13.22,148.42,14,37,5,Bank Transfer,Groundnuts,0
+26,Male,Mzuzu,Southern,16.99,317.89,39,48,9,Mobile Money,Maize,0
+43,Male,Lilongwe,Southern,14.0,169.09,28,7,2,Mobile Money,Groundnuts,0
+19,Male,Blantyre,Southern,8.88,347.89,32,59,6,Bank Transfer,Maize,0
+37,Male,Mzuzu,Southern,13.62,416.72,28,5,3,Cash,Soybean,0
+45,Female,Mzuzu,Northern,5.87,400.11,49,11,2,Mobile Money,Maize,0
+64,Male,Blantyre,Northern,6.47,392.38,9,15,7,Mobile Money,Tobacco,1
+24,Female,Zomba,Southern,15.89,134.48,45,3,3,Bank Transfer,Soybean,0
+61,Female,Blantyre,Central,9.21,89.77,22,58,0,Cash,Tobacco,0
+25,Male,Blantyre,Northern,16.07,364.53,32,5,5,Mobile Money,Tobacco,0
+64,Female,Lilongwe,Central,16.54,215.76,5,23,9,Cash,Tobacco,1
+52,Female,Lilongwe,Northern,17.22,244.56,23,53,0,Mobile Money,Groundnuts,0
+31,Female,Zomba,Southern,18.37,64.02,5,37,4,Bank Transfer,Tobacco,0
+34,Male,Mzuzu,Northern,8.9,166.81,42,9,6,Cash,Soybean,0
+53,Female,Blantyre,Southern,6.72,65.15,32,15,5,Bank Transfer,Maize,0
+67,Female,Zomba,Northern,11.85,445.63,10,3,1,Mobile Money,Tobacco,0
+57,Female,Lilongwe,Southern,7.74,159.53,39,29,3,Bank Transfer,Soybean,0
+21,Male,Blantyre,Southern,12.22,300.8,15,6,1,Bank Transfer,Tobacco,0
+19,Female,Mzuzu,Southern,14.26,67.54,7,17,0,Bank Transfer,Maize,0
+23,Male,Lilongwe,Southern,13.92,350.08,29,26,2,Mobile Money,Soybean,0
+59,Male,Lilongwe,Central,7.8,195.36,47,21,2,Cash,Soybean,0
+21,Male,Lilongwe,Southern,3.75,454.06,3,8,6,Bank Transfer,Maize,0
+46,Male,Zomba,Central,8.9,449.65,19,21,0,Cash,Soybean,0
+35,Male,Mzuzu,Central,3.28,196.38,10,57,8,Mobile Money,Maize,0
+43,Male,Blantyre,Southern,17.86,455.43,28,11,5,Cash,Soybean,0
+61,Female,Zomba,Central,7.24,498.27,29,38,3,Bank Transfer,Soybean,0
+51,Male,Zomba,Northern,3.51,421.44,15,8,2,Bank Transfer,Maize,0
+27,Female,Zomba,Southern,1.0,430.19,35,42,2,Bank Transfer,Maize,0
+53,Female,Lilongwe,Central,13.09,162.05,6,24,1,Bank Transfer,Soybean,0
+31,Male,Mzuzu,Southern,12.92,309.52,12,35,1,Bank Transfer,Soybean,0
+48,Female,Zomba,Southern,7.14,80.27,47,55,9,Bank Transfer,Maize,0
+65,Female,Blantyre,Southern,1.9,92.71,38,14,4,Mobile Money,Groundnuts,0
+32,Female,Mzuzu,Central,8.49,499.5,13,55,8,Mobile Money,Maize,0
+25,Female,Blantyre,Northern,6.57,196.99,29,14,1,Mobile Money,Soybean,0
+31,Male,Mzuzu,Northern,13.7,386.68,19,10,1,Cash,Soybean,0
+40,Female,Blantyre,Central,12.31,413.0,3,12,5,Cash,Soybean,0
+57,Male,Lilongwe,Southern,7.61,436.11,8,38,9,Mobile Money,Maize,1
+38,Female,Zomba,Central,4.75,498.93,8,44,1,Cash,Soybean,0
+33,Female,Blantyre,Central,19.77,158.67,20,55,3,Cash,Groundnuts,0
+62,Male,Mzuzu,Central,9.35,68.16,47,46,5,Bank Transfer,Tobacco,0
+35,Female,Zomba,Southern,13.92,235.04,4,34,4,Bank Transfer,Groundnuts,0
+64,Female,Zomba,Central,3.24,108.54,21,41,0,Cash,Maize,0
+41,Female,Mzuzu,Southern,9.97,60.09,3,10,5,Cash,Soybean,0
+43,Male,Blantyre,Central,1.04,212.19,45,58,0,Mobile Money,Maize,0
+42,Female,Lilongwe,Northern,10.36,402.68,8,17,2,Cash,Tobacco,0
+62,Male,Lilongwe,Central,19.3,304.78,23,17,9,Bank Transfer,Maize,0
+58,Female,Blantyre,Central,7.99,190.75,16,3,4,Cash,Soybean,0
+46,Male,Zomba,Northern,1.26,344.45,13,31,9,Mobile Money,Tobacco,0
+32,Male,Zomba,Southern,1.1,154.41,3,51,4,Bank Transfer,Tobacco,0
+62,Female,Zomba,Southern,8.07,56.47,48,1,9,Bank Transfer,Soybean,0
+18,Female,Zomba,Central,3.62,393.96,9,12,5,Bank Transfer,Soybean,0
+42,Male,Blantyre,Northern,0.96,330.68,14,39,9,Bank Transfer,Soybean,0
+24,Male,Zomba,Southern,15.25,393.04,13,4,7,Cash,Maize,0
+26,Female,Mzuzu,Central,9.44,67.52,7,42,4,Mobile Money,Groundnuts,0
+41,Male,Zomba,Northern,6.14,426.7,15,13,0,Cash,Maize,0
+18,Female,Lilongwe,Southern,18.05,328.79,7,34,4,Cash,Maize,0
+61,Female,Zomba,Southern,2.76,303.53,38,42,2,Bank Transfer,Groundnuts,0
+25,Female,Blantyre,Northern,19.14,331.08,34,21,3,Mobile Money,Soybean,0
+41,Female,Lilongwe,Northern,6.62,438.99,41,22,7,Bank Transfer,Soybean,0
+28,Male,Blantyre,Northern,17.82,314.12,22,57,6,Cash,Groundnuts,0
+68,Female,Blantyre,Northern,12.26,311.43,24,4,4,Cash,Groundnuts,0
+34,Male,Lilongwe,Central,16.62,495.81,49,18,1,Bank Transfer,Maize,0
+25,Female,Blantyre,Northern,19.69,390.53,37,5,5,Cash,Tobacco,0
+52,Male,Blantyre,Southern,6.12,249.03,44,19,5,Cash,Groundnuts,0
+52,Female,Zomba,Southern,19.24,368.33,1,2,9,Bank Transfer,Maize,0
+50,Male,Mzuzu,Central,8.09,225.15,10,12,9,Cash,Tobacco,0
+22,Male,Blantyre,Southern,8.02,152.99,43,17,5,Mobile Money,Soybean,0
+59,Female,Blantyre,Southern,7.14,318.58,16,10,8,Bank Transfer,Soybean,0
+56,Female,Blantyre,Northern,11.06,467.68,46,34,7,Mobile Money,Maize,0
+58,Female,Zomba,Southern,3.51,468.11,8,6,7,Cash,Maize,0
+45,Female,Mzuzu,Central,11.3,203.86,49,8,0,Cash,Groundnuts,0
+24,Male,Lilongwe,Northern,11.06,287.45,25,51,4,Bank Transfer,Soybean,0
+26,Female,Zomba,Northern,15.36,145.24,12,11,6,Cash,Maize,0
+25,Male,Zomba,Central,16.76,498.03,25,57,5,Bank Transfer,Soybean,0
+29,Male,Mzuzu,Northern,9.09,491.5,17,12,4,Bank Transfer,Soybean,0
+51,Female,Mzuzu,Northern,6.4,342.28,26,9,7,Bank Transfer,Groundnuts,0
+50,Male,Zomba,Central,5.56,411.99,46,2,2,Bank Transfer,Tobacco,0
+65,Male,Lilongwe,Northern,4.3,371.8,48,8,5,Bank Transfer,Groundnuts,0
+40,Male,Zomba,Central,1.62,316.92,14,58,4,Mobile Money,Maize,0
+41,Male,Mzuzu,Central,7.18,74.01,41,11,7,Bank Transfer,Groundnuts,0
+54,Female,Lilongwe,Southern,5.77,254.64,36,53,3,Mobile Money,Groundnuts,0
+52,Female,Mzuzu,Southern,19.35,353.65,23,36,7,Cash,Soybean,0
+61,Female,Lilongwe,Northern,11.38,354.89,43,10,9,Bank Transfer,Groundnuts,0
+57,Female,Blantyre,Northern,7.27,217.91,6,21,1,Cash,Maize,0
+39,Male,Mzuzu,Central,11.82,473.76,47,20,8,Bank Transfer,Tobacco,0
+44,Male,Mzuzu,Northern,3.21,125.31,5,48,8,Mobile Money,Groundnuts,1
+52,Female,Zomba,Central,9.16,275.16,43,8,9,Mobile Money,Groundnuts,0
+18,Female,Mzuzu,Central,12.71,360.9,25,36,9,Mobile Money,Tobacco,0
+52,Female,Mzuzu,Northern,10.03,363.71,18,29,5,Cash,Maize,0
+54,Male,Blantyre,Central,8.33,341.89,13,42,3,Bank Transfer,Maize,0
+64,Female,Mzuzu,Southern,19.88,173.88,43,12,3,Cash,Groundnuts,0
+31,Female,Blantyre,Northern,17.67,120.29,14,14,5,Mobile Money,Soybean,0
+20,Female,Blantyre,Southern,12.66,336.17,28,48,4,Cash,Groundnuts,0
+18,Male,Blantyre,Northern,11.6,319.69,18,54,5,Mobile Money,Tobacco,0
+22,Male,Blantyre,Central,12.6,130.71,28,50,6,Mobile Money,Tobacco,0
+43,Male,Lilongwe,Northern,4.43,367.31,27,21,6,Mobile Money,Tobacco,0
+31,Male,Zomba,Southern,8.21,254.83,32,22,8,Bank Transfer,Groundnuts,0
+56,Male,Lilongwe,Central,1.27,350.49,47,21,7,Bank Transfer,Groundnuts,0
+44,Male,Mzuzu,Northern,9.77,426.82,9,44,5,Mobile Money,Maize,0
+26,Male,Lilongwe,Northern,11.09,126.38,40,50,5,Cash,Soybean,0
+32,Male,Lilongwe,Northern,4.94,58.62,32,30,4,Cash,Groundnuts,0
+32,Female,Mzuzu,Southern,19.3,400.6,20,39,0,Bank Transfer,Maize,0
+43,Female,Mzuzu,Southern,18.23,324.36,28,20,8,Mobile Money,Groundnuts,0
+59,Male,Mzuzu,Northern,14.58,364.84,33,24,8,Cash,Maize,0
+30,Male,Lilongwe,Central,10.9,427.17,4,23,8,Mobile Money,Maize,1
+68,Female,Lilongwe,Central,17.46,411.26,46,7,7,Cash,Soybean,0
+49,Male,Mzuzu,Southern,3.05,482.41,34,9,9,Bank Transfer,Groundnuts,0
+56,Male,Zomba,Central,15.91,291.17,48,1,2,Mobile Money,Maize,0
+66,Male,Zomba,Southern,2.93,269.82,3,26,0,Mobile Money,Tobacco,0
+69,Female,Blantyre,Northern,15.99,230.85,26,38,7,Cash,Tobacco,0
+49,Female,Mzuzu,Southern,5.88,119.16,8,38,6,Cash,Tobacco,1
+21,Female,Blantyre,Southern,17.6,307.67,6,54,4,Cash,Soybean,0
+47,Female,Zomba,Northern,18.91,174.66,16,44,9,Mobile Money,Maize,0
+54,Female,Blantyre,Central,3.4,464.59,24,22,6,Bank Transfer,Soybean,0
+40,Male,Mzuzu,Southern,9.52,312.44,48,44,9,Bank Transfer,Groundnuts,0
+56,Female,Mzuzu,Southern,19.63,316.78,39,10,3,Cash,Groundnuts,0
+62,Male,Mzuzu,Northern,9.93,209.72,30,55,8,Bank Transfer,Maize,0
+32,Male,Lilongwe,Central,17.34,73.4,45,58,9,Cash,Tobacco,0
+60,Female,Blantyre,Southern,11.98,64.28,13,6,1,Bank Transfer,Maize,0
+46,Female,Zomba,Northern,7.82,240.5,5,17,8,Mobile Money,Maize,1
+53,Male,Zomba,Southern,6.07,88.05,25,51,8,Cash,Maize,0
+30,Male,Zomba,Northern,4.46,323.08,20,50,4,Bank Transfer,Soybean,0
+49,Male,Lilongwe,Central,15.36,446.44,18,38,0,Mobile Money,Groundnuts,0
+24,Female,Lilongwe,Central,8.04,447.31,47,24,6,Bank Transfer,Maize,0
+68,Female,Mzuzu,Central,10.47,346.57,18,51,9,Mobile Money,Maize,0
+39,Female,Zomba,Central,10.1,145.05,2,10,9,Mobile Money,Maize,0
+45,Female,Lilongwe,Southern,11.76,438.35,10,56,3,Bank Transfer,Soybean,0
+19,Female,Mzuzu,Southern,17.38,448.74,45,8,8,Bank Transfer,Soybean,0
+59,Male,Zomba,Central,19.62,138.49,47,21,5,Mobile Money,Soybean,0
+62,Female,Blantyre,Central,8.45,381.84,12,56,2,Mobile Money,Maize,0
+23,Male,Mzuzu,Central,16.64,178.93,47,6,5,Mobile Money,Tobacco,0
+45,Male,Lilongwe,Southern,15.41,411.19,13,21,9,Cash,Tobacco,0
+45,Male,Lilongwe,Central,11.68,498.76,47,57,5,Mobile Money,Tobacco,0
+61,Female,Mzuzu,Central,19.14,63.51,11,39,4,Cash,Groundnuts,0
+61,Female,Mzuzu,Central,4.41,453.81,19,24,1,Mobile Money,Maize,0
+37,Female,Lilongwe,Northern,2.63,330.18,35,33,9,Cash,Tobacco,0
+47,Male,Blantyre,Central,17.15,488.02,39,59,9,Mobile Money,Tobacco,0
+28,Male,Zomba,Northern,9.06,259.25,26,18,1,Mobile Money,Tobacco,0
+45,Male,Blantyre,Northern,17.02,431.32,46,56,6,Mobile Money,Maize,0
+42,Male,Mzuzu,Central,17.92,78.08,14,28,1,Bank Transfer,Tobacco,0
+56,Male,Blantyre,Northern,1.72,200.88,45,57,5,Bank Transfer,Tobacco,0
+50,Male,Lilongwe,Central,17.73,80.16,44,52,4,Mobile Money,Maize,0
+18,Female,Mzuzu,Southern,9.24,488.9,24,32,3,Cash,Groundnuts,0
+44,Female,Zomba,Southern,10.45,417.64,41,12,6,Cash,Soybean,0
+69,Female,Lilongwe,Southern,12.72,433.65,1,48,7,Mobile Money,Tobacco,1
+30,Female,Lilongwe,Southern,18.56,472.08,43,42,3,Bank Transfer,Soybean,0
+58,Male,Zomba,Northern,0.87,88.3,22,27,0,Cash,Groundnuts,0
+20,Male,Zomba,Central,9.8,223.52,23,10,0,Bank Transfer,Groundnuts,0
+56,Female,Blantyre,Central,13.91,81.97,19,46,0,Cash,Tobacco,0
+23,Male,Mzuzu,Central,14.59,144.86,18,57,0,Mobile Money,Maize,0
+25,Female,Zomba,Southern,14.0,153.21,12,52,4,Bank Transfer,Groundnuts,0
+44,Female,Zomba,Southern,3.12,261.1,28,42,3,Cash,Soybean,0
+26,Female,Mzuzu,Central,6.34,170.85,28,32,8,Mobile Money,Soybean,0
+54,Male,Zomba,Southern,7.49,95.44,33,42,2,Mobile Money,Soybean,0
+50,Female,Zomba,Central,16.19,125.37,19,26,6,Mobile Money,Soybean,0
+68,Female,Blantyre,Central,5.94,116.27,28,25,7,Bank Transfer,Groundnuts,0
+59,Female,Lilongwe,Central,4.61,487.88,49,11,5,Bank Transfer,Tobacco,0
+61,Male,Lilongwe,Central,19.17,391.68,37,23,9,Mobile Money,Tobacco,0
+41,Male,Lilongwe,Central,0.67,485.49,26,34,0,Bank Transfer,Soybean,0
+32,Female,Lilongwe,Central,19.96,247.88,35,57,7,Cash,Tobacco,0
+49,Male,Zomba,Central,13.7,175.27,34,52,9,Mobile Money,Soybean,0
+49,Male,Mzuzu,Southern,16.66,409.23,35,40,2,Mobile Money,Soybean,0
+41,Male,Mzuzu,Central,6.25,196.81,40,23,7,Bank Transfer,Maize,0
+58,Male,Blantyre,Central,0.78,184.72,16,29,3,Mobile Money,Groundnuts,0
+69,Male,Blantyre,Southern,14.89,154.63,38,31,7,Cash,Groundnuts,0
+66,Male,Zomba,Southern,16.77,108.36,13,7,0,Bank Transfer,Soybean,0
+66,Male,Mzuzu,Southern,14.94,165.41,23,40,2,Bank Transfer,Groundnuts,0
+69,Male,Mzuzu,Central,3.29,209.89,22,33,5,Mobile Money,Tobacco,0
+29,Male,Lilongwe,Northern,15.19,353.3,16,21,8,Mobile Money,Soybean,0
+56,Male,Zomba,Northern,15.49,78.15,28,2,1,Mobile Money,Maize,0
+19,Female,Zomba,Southern,13.34,144.73,48,18,0,Bank Transfer,Tobacco,0
+20,Female,Lilongwe,Northern,15.44,414.06,35,47,9,Mobile Money,Maize,0
+66,Male,Zomba,Southern,17.0,116.11,45,33,2,Cash,Maize,0
+54,Female,Zomba,Central,12.47,204.19,46,37,3,Mobile Money,Groundnuts,0
+66,Female,Blantyre,Northern,2.23,439.1,8,34,4,Mobile Money,Groundnuts,0
+34,Male,Mzuzu,Central,10.01,119.72,44,20,2,Bank Transfer,Soybean,0
+66,Male,Zomba,Northern,2.01,87.23,22,35,9,Mobile Money,Groundnuts,0
+19,Male,Blantyre,Central,8.45,268.04,21,51,1,Bank Transfer,Maize,0
+19,Female,Mzuzu,Northern,8.44,186.09,26,50,1,Mobile Money,Maize,0
+45,Female,Lilongwe,Central,1.79,303.53,40,54,6,Cash,Tobacco,0
+40,Male,Blantyre,Central,7.3,411.71,21,18,8,Cash,Maize,0
+54,Male,Blantyre,Northern,2.66,111.72,25,46,9,Bank Transfer,Soybean,0
+49,Male,Mzuzu,Central,16.26,311.31,41,24,1,Bank Transfer,Soybean,0
+50,Female,Lilongwe,Central,18.98,277.48,1,8,6,Mobile Money,Groundnuts,0
+18,Female,Blantyre,Central,1.91,114.84,6,30,6,Mobile Money,Groundnuts,1
+36,Female,Zomba,Northern,19.12,330.8,23,44,6,Cash,Groundnuts,0
+19,Female,Zomba,Northern,10.69,173.14,23,53,2,Mobile Money,Soybean,0
+61,Male,Zomba,Central,6.34,269.53,43,10,6,Cash,Maize,0
+43,Male,Lilongwe,Central,2.0,87.02,43,23,0,Bank Transfer,Groundnuts,0
+49,Male,Blantyre,Northern,10.26,256.81,23,52,9,Mobile Money,Tobacco,0
+23,Male,Zomba,Northern,15.99,187.91,32,49,0,Bank Transfer,Groundnuts,0
+49,Female,Lilongwe,Central,14.29,420.07,30,11,4,Mobile Money,Soybean,0
+21,Female,Zomba,Central,1.48,75.64,13,2,1,Cash,Groundnuts,0
+28,Male,Mzuzu,Central,1.92,238.37,43,58,8,Bank Transfer,Maize,0
+34,Male,Blantyre,Southern,8.36,256.29,18,26,6,Bank Transfer,Groundnuts,0
+55,Female,Blantyre,Northern,6.26,376.25,23,36,3,Mobile Money,Soybean,0
+41,Male,Lilongwe,Southern,5.03,308.43,15,33,3,Bank Transfer,Soybean,0
+22,Female,Lilongwe,Northern,5.98,350.25,33,47,1,Cash,Tobacco,0
+69,Male,Blantyre,Northern,16.17,399.67,21,13,4,Bank Transfer,Soybean,0
+51,Male,Zomba,Northern,18.62,437.99,39,40,3,Bank Transfer,Tobacco,0
+23,Male,Zomba,Northern,8.4,191.24,23,25,0,Mobile Money,Maize,0
+39,Male,Mzuzu,Northern,18.17,292.11,27,4,7,Bank Transfer,Soybean,0
+28,Male,Zomba,Northern,6.77,428.05,45,42,2,Mobile Money,Groundnuts,0
+65,Male,Lilongwe,Northern,9.79,495.25,44,19,5,Mobile Money,Maize,0
+33,Male,Lilongwe,Southern,4.91,450.28,18,18,3,Bank Transfer,Groundnuts,0
+50,Female,Zomba,Central,12.99,217.16,24,37,8,Cash,Groundnuts,0
+26,Female,Lilongwe,Central,19.59,137.82,47,30,6,Mobile Money,Groundnuts,0
+23,Female,Blantyre,Southern,12.27,270.23,40,19,8,Bank Transfer,Maize,0
+33,Female,Blantyre,Southern,7.48,383.74,42,58,9,Mobile Money,Maize,0
+46,Female,Zomba,Southern,13.13,271.66,7,23,2,Cash,Soybean,0
+20,Male,Blantyre,Southern,2.9,267.43,48,59,0,Cash,Groundnuts,0
+37,Male,Blantyre,Northern,17.83,427.2,20,54,4,Mobile Money,Tobacco,0
+53,Female,Mzuzu,Central,10.31,212.63,27,16,2,Cash,Soybean,0
+36,Male,Mzuzu,Northern,9.26,436.91,6,1,5,Bank Transfer,Maize,0
+43,Female,Blantyre,Central,11.92,233.06,27,12,7,Bank Transfer,Tobacco,0
+20,Female,Zomba,Central,12.68,197.7,9,24,3,Mobile Money,Maize,0
+36,Male,Mzuzu,Southern,1.9,254.3,45,34,4,Cash,Tobacco,0
+37,Male,Lilongwe,Northern,13.81,393.1,31,53,4,Bank Transfer,Soybean,0
+49,Male,Lilongwe,Southern,5.22,106.7,21,57,3,Bank Transfer,Tobacco,0
+24,Female,Lilongwe,Northern,14.42,138.39,26,8,3,Bank Transfer,Soybean,0
+69,Male,Zomba,Central,16.54,478.15,40,18,3,Mobile Money,Maize,0
+58,Female,Blantyre,Southern,16.18,128.97,48,57,3,Mobile Money,Tobacco,0
+50,Female,Lilongwe,Southern,11.27,305.48,45,48,3,Bank Transfer,Groundnuts,0
+57,Female,Zomba,Central,10.64,310.69,13,5,4,Bank Transfer,Groundnuts,0
+56,Male,Mzuzu,Central,3.29,270.33,49,26,1,Cash,Maize,0
+35,Male,Blantyre,Central,15.62,340.14,23,30,1,Cash,Tobacco,0
+57,Female,Mzuzu,Southern,5.79,153.42,20,54,8,Cash,Groundnuts,0
+18,Male,Zomba,Northern,10.19,298.7,37,13,1,Mobile Money,Soybean,0
+28,Male,Lilongwe,Southern,6.04,217.48,28,19,5,Bank Transfer,Tobacco,0
+45,Male,Lilongwe,Northern,3.11,347.75,17,29,1,Mobile Money,Tobacco,0
+42,Female,Zomba,Southern,12.78,113.55,28,3,4,Bank Transfer,Groundnuts,0
+67,Female,Lilongwe,Southern,1.56,306.89,41,26,3,Cash,Soybean,0
+40,Male,Blantyre,Central,15.1,133.37,2,40,6,Cash,Soybean,1
+48,Female,Zomba,Northern,6.69,175.39,25,59,6,Cash,Soybean,0
+47,Male,Mzuzu,Southern,0.5,148.42,41,58,5,Cash,Tobacco,0
+59,Male,Zomba,Southern,10.47,132.28,6,58,9,Bank Transfer,Maize,1
+52,Male,Blantyre,Central,1.41,421.57,11,12,4,Cash,Tobacco,0
+24,Male,Blantyre,Central,5.89,178.57,38,2,0,Bank Transfer,Tobacco,0
+33,Female,Zomba,Northern,14.29,467.21,6,11,2,Bank Transfer,Groundnuts,0
+43,Female,Zomba,Southern,1.72,486.47,45,44,8,Mobile Money,Maize,0
+65,Female,Lilongwe,Northern,16.87,307.07,11,28,0,Cash,Soybean,0
+69,Male,Blantyre,Southern,0.57,114.35,14,18,4,Cash,Groundnuts,0
+66,Male,Zomba,Northern,5.31,218.55,2,13,1,Mobile Money,Tobacco,0
+19,Male,Zomba,Central,14.95,408.98,40,37,3,Bank Transfer,Maize,0
+18,Female,Blantyre,Southern,6.67,215.33,3,22,0,Cash,Soybean,0
+65,Male,Zomba,Northern,2.49,89.16,35,12,2,Bank Transfer,Soybean,0
+29,Female,Lilongwe,Central,7.52,300.55,33,2,9,Mobile Money,Tobacco,0
+22,Female,Blantyre,Central,5.77,430.3,24,37,6,Bank Transfer,Soybean,0
+54,Female,Lilongwe,Northern,16.93,408.17,19,7,9,Cash,Soybean,0
+49,Female,Lilongwe,Southern,6.61,128.81,18,26,2,Bank Transfer,Maize,0
+26,Female,Lilongwe,Southern,15.88,352.74,49,26,3,Bank Transfer,Groundnuts,0
+58,Female,Lilongwe,Central,17.89,149.23,24,24,1,Cash,Maize,0
+52,Male,Blantyre,Southern,8.96,148.19,45,12,2,Cash,Groundnuts,0
+36,Male,Lilongwe,Southern,18.24,443.33,35,16,8,Bank Transfer,Groundnuts,0
+65,Female,Lilongwe,Southern,7.86,162.35,1,23,2,Bank Transfer,Groundnuts,0
+33,Female,Zomba,Central,19.3,168.46,36,40,4,Mobile Money,Soybean,0
+20,Male,Blantyre,Northern,2.24,50.29,25,9,1,Cash,Maize,0
+37,Female,Blantyre,Southern,13.9,441.8,45,32,3,Bank Transfer,Soybean,0
+41,Female,Mzuzu,Central,10.13,406.67,49,15,6,Cash,Tobacco,0
+50,Male,Blantyre,Central,8.06,332.3,43,37,6,Mobile Money,Maize,0
+41,Female,Blantyre,Northern,12.84,387.62,34,13,2,Bank Transfer,Groundnuts,0
+69,Female,Mzuzu,Southern,14.23,118.42,25,5,4,Bank Transfer,Soybean,0
+28,Female,Blantyre,Southern,0.59,256.25,16,11,0,Bank Transfer,Soybean,0
+66,Male,Blantyre,Northern,3.76,208.05,34,10,9,Cash,Maize,0
+25,Male,Blantyre,Northern,14.4,92.2,29,52,9,Mobile Money,Maize,0
+53,Male,Blantyre,Central,13.49,268.76,19,13,9,Cash,Groundnuts,0
+55,Female,Mzuzu,Central,19.34,464.33,23,41,0,Bank Transfer,Groundnuts,0
+57,Female,Blantyre,Northern,15.34,68.03,19,53,4,Mobile Money,Tobacco,0
+37,Male,Blantyre,Southern,19.04,181.16,25,46,9,Bank Transfer,Groundnuts,0
+52,Female,Mzuzu,Central,14.2,143.39,16,50,8,Bank Transfer,Soybean,0
+65,Female,Zomba,Central,6.31,157.17,9,15,0,Cash,Tobacco,0
+42,Female,Lilongwe,Southern,2.55,458.8,1,42,0,Bank Transfer,Tobacco,0
+52,Female,Zomba,Central,15.75,260.63,42,56,3,Mobile Money,Tobacco,0
+42,Female,Mzuzu,Southern,13.06,259.83,19,7,3,Bank Transfer,Maize,0
+46,Male,Lilongwe,Southern,1.44,392.26,33,40,1,Bank Transfer,Groundnuts,0
+35,Female,Mzuzu,Southern,7.52,119.52,34,28,8,Cash,Tobacco,0
+63,Male,Mzuzu,Northern,19.16,269.27,16,32,8,Mobile Money,Maize,0
+35,Female,Blantyre,Northern,10.26,243.49,44,35,1,Cash,Maize,0
+19,Male,Lilongwe,Northern,8.94,318.61,40,15,8,Bank Transfer,Tobacco,0
+52,Female,Blantyre,Southern,9.43,499.8,18,48,5,Cash,Tobacco,0
+33,Male,Lilongwe,Southern,4.57,396.25,34,36,7,Cash,Soybean,0
+58,Female,Mzuzu,Northern,7.69,229.04,25,21,9,Cash,Tobacco,0
+53,Male,Mzuzu,Central,7.71,422.4,45,6,3,Cash,Soybean,0
+50,Female,Zomba,Southern,1.52,126.82,6,1,1,Bank Transfer,Tobacco,0
+21,Male,Lilongwe,Central,15.47,63.71,21,4,1,Bank Transfer,Tobacco,0
+50,Female,Blantyre,Central,8.62,142.0,6,11,8,Mobile Money,Groundnuts,0
+31,Male,Zomba,Southern,16.53,203.19,32,44,0,Cash,Tobacco,0
+38,Male,Zomba,Southern,17.08,279.76,41,26,6,Cash,Tobacco,0
+65,Female,Zomba,Central,4.63,326.81,48,37,2,Mobile Money,Soybean,0
+37,Female,Blantyre,Central,13.32,459.77,43,23,2,Cash,Soybean,0
+25,Male,Zomba,Northern,9.71,279.43,39,29,1,Mobile Money,Groundnuts,0
+24,Female,Blantyre,Northern,17.66,275.57,31,21,9,Bank Transfer,Tobacco,0
+20,Male,Zomba,Southern,4.71,72.61,42,48,5,Mobile Money,Tobacco,0
+34,Male,Blantyre,Northern,13.72,65.71,10,45,9,Cash,Soybean,0
+50,Male,Mzuzu,Northern,12.35,298.02,30,45,1,Mobile Money,Maize,0
+65,Female,Mzuzu,Northern,6.26,247.18,18,49,9,Bank Transfer,Maize,0
+29,Male,Mzuzu,Northern,3.16,427.63,24,27,3,Cash,Maize,0
+68,Male,Mzuzu,Central,13.21,122.31,9,39,9,Bank Transfer,Soybean,1
+39,Female,Mzuzu,Southern,14.9,61.24,31,40,8,Bank Transfer,Soybean,0
+39,Female,Zomba,Northern,6.65,252.07,15,13,8,Mobile Money,Maize,0
+63,Female,Zomba,Central,13.07,156.87,4,23,5,Bank Transfer,Maize,0
+47,Female,Zomba,Central,8.21,72.33,40,59,3,Cash,Tobacco,0
+55,Male,Blantyre,Central,14.41,376.07,9,16,6,Bank Transfer,Soybean,1
+55,Male,Blantyre,Northern,4.38,100.22,45,30,0,Bank Transfer,Soybean,0
+62,Male,Blantyre,Northern,17.86,323.74,9,4,3,Mobile Money,Maize,0
+68,Male,Blantyre,Southern,6.1,176.47,26,40,4,Bank Transfer,Maize,0
+25,Female,Mzuzu,Northern,7.67,128.07,4,16,7,Mobile Money,Groundnuts,1
+44,Male,Mzuzu,Northern,1.63,220.89,17,31,1,Mobile Money,Soybean,0
+44,Male,Mzuzu,Central,2.67,410.65,16,53,4,Cash,Groundnuts,0
+51,Female,Lilongwe,Southern,10.56,226.44,15,42,5,Cash,Tobacco,0
+38,Male,Zomba,Northern,5.72,387.85,35,25,4,Cash,Groundnuts,0
+47,Male,Blantyre,Northern,16.79,106.47,5,44,8,Cash,Maize,1
+50,Male,Blantyre,Central,0.79,397.75,5,12,9,Mobile Money,Soybean,0
+45,Male,Mzuzu,Central,7.89,156.62,20,26,0,Bank Transfer,Soybean,0
+64,Male,Blantyre,Northern,7.08,354.83,15,37,2,Cash,Groundnuts,0
+50,Male,Blantyre,Southern,0.88,304.6,18,48,1,Cash,Groundnuts,0
+22,Female,Zomba,Southern,2.93,468.12,47,33,2,Cash,Tobacco,0
+65,Female,Mzuzu,Central,8.57,224.3,2,28,9,Bank Transfer,Tobacco,1
+36,Male,Zomba,Central,10.11,79.77,29,9,8,Cash,Maize,0
+21,Male,Lilongwe,Northern,8.38,58.62,13,12,8,Bank Transfer,Maize,0
+52,Female,Lilongwe,Central,10.85,422.09,4,5,9,Mobile Money,Maize,0
+66,Male,Lilongwe,Northern,12.11,286.13,42,54,1,Mobile Money,Groundnuts,0
+34,Male,Mzuzu,Southern,0.69,398.86,45,52,2,Mobile Money,Groundnuts,0
+61,Male,Blantyre,Southern,9.55,155.49,10,54,3,Bank Transfer,Soybean,0
+45,Female,Mzuzu,Northern,19.29,205.29,31,28,8,Cash,Maize,0
+47,Male,Mzuzu,Central,10.62,63.55,41,56,2,Cash,Groundnuts,0
+46,Female,Blantyre,Southern,13.71,482.67,8,35,6,Cash,Soybean,1
+63,Male,Zomba,Central,6.58,350.54,3,5,2,Cash,Maize,0
+23,Female,Lilongwe,Southern,15.59,469.94,48,34,6,Cash,Tobacco,0
+52,Female,Zomba,Northern,15.57,169.47,46,46,6,Bank Transfer,Tobacco,0
+58,Male,Lilongwe,Northern,10.67,325.16,9,34,8,Mobile Money,Groundnuts,1
+54,Female,Mzuzu,Northern,19.53,355.32,30,13,1,Cash,Soybean,0
+41,Male,Lilongwe,Southern,2.95,192.9,11,39,5,Mobile Money,Tobacco,0
+46,Female,Mzuzu,Central,0.83,431.65,35,42,8,Bank Transfer,Soybean,0
+66,Male,Zomba,Central,15.52,476.22,37,45,1,Bank Transfer,Soybean,0
+63,Male,Mzuzu,Central,16.24,448.18,42,48,1,Cash,Tobacco,0
+48,Female,Zomba,Southern,2.84,382.58,13,58,4,Bank Transfer,Soybean,0
+52,Male,Blantyre,Southern,5.68,174.86,36,14,9,Mobile Money,Tobacco,0
+50,Male,Blantyre,Southern,0.84,176.73,13,11,9,Cash,Groundnuts,0
+69,Female,Blantyre,Southern,6.22,483.51,12,42,9,Cash,Maize,0
+38,Male,Mzuzu,Southern,15.58,54.63,37,38,7,Mobile Money,Maize,0
+49,Male,Blantyre,Central,10.6,372.22,10,4,8,Cash,Groundnuts,0
+40,Female,Lilongwe,Southern,7.29,367.81,9,53,1,Cash,Tobacco,0
+50,Female,Zomba,Southern,7.75,330.21,7,33,4,Mobile Money,Tobacco,0
+20,Male,Zomba,Central,0.53,495.55,2,7,6,Cash,Tobacco,0
+35,Male,Lilongwe,Southern,6.35,190.35,23,56,5,Cash,Tobacco,0
+42,Female,Mzuzu,Central,13.11,202.99,39,41,5,Mobile Money,Groundnuts,0
+59,Female,Mzuzu,Central,19.5,85.52,40,8,6,Bank Transfer,Maize,0
+48,Male,Zomba,Northern,17.02,249.26,39,37,2,Mobile Money,Soybean,0
+20,Female,Blantyre,Northern,0.96,167.47,21,51,2,Cash,Soybean,0
+57,Male,Mzuzu,Northern,18.02,204.52,23,10,9,Mobile Money,Maize,0
+63,Male,Mzuzu,Northern,15.77,425.56,29,43,8,Cash,Groundnuts,0
+41,Male,Lilongwe,Southern,15.72,470.97,14,57,7,Cash,Soybean,0
+67,Male,Lilongwe,Northern,9.43,133.58,26,15,4,Mobile Money,Maize,0
+49,Male,Blantyre,Central,8.26,217.63,5,38,5,Cash,Groundnuts,0
+64,Female,Mzuzu,Southern,6.41,467.88,31,15,9,Bank Transfer,Soybean,0
+39,Female,Mzuzu,Northern,1.78,77.81,25,5,0,Cash,Tobacco,0
+40,Female,Lilongwe,Central,4.95,91.56,31,29,9,Mobile Money,Tobacco,0
+19,Female,Mzuzu,Southern,5.31,123.26,20,19,0,Bank Transfer,Groundnuts,0
+44,Male,Zomba,Southern,9.94,317.85,44,54,3,Bank Transfer,Tobacco,0
+59,Male,Lilongwe,Northern,15.08,117.71,17,51,1,Cash,Groundnuts,0
+19,Male,Blantyre,Southern,9.74,485.63,45,10,6,Mobile Money,Maize,0
+43,Male,Lilongwe,Central,1.63,251.02,2,12,1,Cash,Maize,0
+34,Female,Mzuzu,Southern,19.18,275.68,25,54,9,Cash,Soybean,0
+57,Male,Blantyre,Central,18.88,161.0,13,4,1,Mobile Money,Groundnuts,0
+50,Male,Lilongwe,Southern,15.81,261.93,39,31,4,Mobile Money,Soybean,0
+26,Female,Zomba,Northern,19.83,347.86,28,18,3,Cash,Soybean,0
+60,Female,Zomba,Central,11.12,388.03,42,16,7,Bank Transfer,Maize,0
+65,Female,Lilongwe,Southern,19.27,389.24,6,40,3,Cash,Soybean,0
+56,Female,Zomba,Southern,1.97,310.05,3,36,5,Bank Transfer,Tobacco,0
+46,Male,Zomba,Southern,7.63,456.96,35,25,4,Cash,Soybean,0
+59,Male,Zomba,Central,4.89,417.83,18,23,1,Mobile Money,Groundnuts,0
+43,Female,Blantyre,Central,4.32,390.67,11,12,7,Bank Transfer,Tobacco,0
+52,Male,Zomba,Central,3.25,75.02,20,34,1,Mobile Money,Maize,0
+67,Male,Zomba,Northern,12.64,53.1,5,36,8,Mobile Money,Groundnuts,1
+42,Male,Zomba,Northern,15.74,145.6,19,37,8,Mobile Money,Tobacco,0
+41,Female,Blantyre,Central,11.78,348.59,22,3,2,Mobile Money,Groundnuts,0
+30,Male,Lilongwe,Southern,3.37,235.04,19,9,3,Mobile Money,Tobacco,0
+24,Female,Mzuzu,Northern,16.32,231.08,47,53,7,Cash,Groundnuts,0
+53,Male,Zomba,Central,12.9,448.06,16,18,8,Bank Transfer,Groundnuts,0
+62,Male,Lilongwe,Southern,8.07,453.0,24,43,2,Cash,Tobacco,0
+37,Male,Zomba,Northern,13.65,459.13,41,35,4,Cash,Maize,0
+18,Female,Blantyre,Southern,5.57,191.25,4,57,7,Cash,Maize,1
+25,Male,Lilongwe,Southern,7.23,360.98,15,55,2,Mobile Money,Groundnuts,0
+63,Female,Blantyre,Southern,18.39,172.23,25,34,6,Cash,Groundnuts,0
+33,Female,Zomba,Southern,6.16,135.77,44,41,7,Bank Transfer,Maize,0
+31,Female,Zomba,Northern,9.66,133.08,35,14,9,Cash,Maize,0
+29,Male,Blantyre,Northern,17.86,203.95,14,4,2,Mobile Money,Soybean,0
+68,Male,Mzuzu,Northern,14.3,243.48,49,29,1,Bank Transfer,Maize,0
+40,Male,Blantyre,Central,1.71,423.93,19,41,9,Bank Transfer,Groundnuts,0
+32,Male,Zomba,Northern,3.37,103.95,38,45,6,Bank Transfer,Tobacco,0
+45,Female,Blantyre,Southern,0.65,380.72,36,50,8,Bank Transfer,Maize,0
+51,Female,Mzuzu,Northern,12.8,289.15,7,15,0,Cash,Soybean,0
+19,Female,Blantyre,Southern,9.23,179.58,30,28,2,Mobile Money,Soybean,0
+49,Male,Mzuzu,Central,3.12,271.77,19,42,4,Bank Transfer,Soybean,0
+40,Female,Mzuzu,Southern,19.18,184.97,49,16,2,Bank Transfer,Tobacco,0
+39,Male,Blantyre,Southern,10.83,318.24,25,12,0,Mobile Money,Maize,0
+68,Female,Blantyre,Southern,5.22,245.23,16,52,6,Cash,Maize,0
+42,Male,Lilongwe,Central,10.26,123.98,47,5,6,Bank Transfer,Maize,0
+39,Male,Zomba,Northern,13.75,102.46,40,34,9,Cash,Tobacco,0
+39,Female,Mzuzu,Northern,1.99,296.01,8,42,7,Cash,Tobacco,1
+66,Female,Lilongwe,Central,5.86,456.09,18,1,4,Cash,Groundnuts,0
+69,Female,Blantyre,Southern,16.24,204.78,28,39,9,Cash,Soybean,0
+59,Female,Zomba,Northern,9.46,379.85,16,32,4,Bank Transfer,Soybean,0
+23,Male,Lilongwe,Central,11.16,346.4,19,26,4,Bank Transfer,Maize,0
+32,Female,Mzuzu,Northern,8.94,469.2,42,17,0,Cash,Tobacco,0
+60,Female,Lilongwe,Central,1.36,419.44,17,48,9,Cash,Tobacco,0
+54,Female,Mzuzu,Southern,3.73,304.97,45,59,4,Mobile Money,Maize,0
+50,Male,Blantyre,Northern,9.19,345.66,13,27,5,Mobile Money,Maize,0
+25,Male,Zomba,Central,4.58,454.27,7,24,0,Mobile Money,Groundnuts,0
+61,Female,Zomba,Northern,1.47,229.78,27,35,6,Bank Transfer,Soybean,0
+61,Male,Zomba,Northern,16.95,197.06,10,46,0,Mobile Money,Soybean,0
+22,Female,Blantyre,Northern,19.63,54.86,34,42,1,Bank Transfer,Soybean,0
+56,Male,Mzuzu,Northern,15.97,421.95,36,54,1,Bank Transfer,Groundnuts,0
+21,Male,Blantyre,Central,17.15,410.44,25,39,4,Bank Transfer,Maize,0
+23,Male,Zomba,Southern,5.22,97.0,6,26,9,Bank Transfer,Maize,1
+62,Male,Blantyre,Central,19.23,309.59,24,49,6,Mobile Money,Soybean,0
+49,Female,Blantyre,Central,4.34,258.79,18,38,0,Cash,Soybean,0
+69,Female,Blantyre,Central,19.05,103.42,23,23,9,Cash,Groundnuts,0
+47,Female,Mzuzu,Southern,19.9,491.26,6,22,0,Cash,Tobacco,0
+64,Male,Lilongwe,Northern,14.38,146.61,29,4,0,Mobile Money,Tobacco,0
+52,Female,Lilongwe,Northern,19.63,80.26,25,49,5,Cash,Soybean,0
+57,Female,Blantyre,Northern,11.61,317.68,17,59,1,Mobile Money,Groundnuts,0
+69,Female,Lilongwe,Southern,5.56,382.49,46,9,0,Mobile Money,Soybean,0
+33,Male,Lilongwe,Northern,9.02,64.6,24,4,5,Mobile Money,Tobacco,0
+30,Male,Blantyre,Southern,12.07,346.42,11,7,1,Cash,Soybean,0
+67,Male,Blantyre,Northern,1.93,289.53,26,23,5,Cash,Tobacco,0
+59,Female,Zomba,Northern,12.64,96.47,34,2,9,Cash,Tobacco,0
+47,Female,Lilongwe,Central,19.63,127.64,28,49,7,Bank Transfer,Tobacco,0
+36,Female,Mzuzu,Southern,4.21,305.59,3,24,1,Mobile Money,Maize,0
+34,Male,Blantyre,Central,15.96,183.36,11,40,8,Bank Transfer,Maize,0
+36,Male,Zomba,Central,18.2,472.24,38,55,7,Mobile Money,Soybean,0
+45,Female,Mzuzu,Central,18.9,418.43,14,31,9,Cash,Tobacco,0
+43,Male,Lilongwe,Southern,19.22,492.61,26,47,0,Mobile Money,Maize,0
+54,Male,Zomba,Southern,10.67,166.85,48,31,6,Mobile Money,Soybean,0
+43,Male,Blantyre,Northern,19.56,486.38,21,47,9,Bank Transfer,Soybean,0
+40,Male,Mzuzu,Central,15.27,244.06,39,40,5,Mobile Money,Soybean,0
+26,Female,Blantyre,Northern,3.65,206.38,30,48,5,Cash,Soybean,0
+29,Male,Lilongwe,Central,9.8,72.66,8,51,5,Mobile Money,Soybean,0
+18,Male,Mzuzu,Southern,14.51,73.74,20,43,5,Mobile Money,Groundnuts,0
+18,Male,Lilongwe,Southern,5.32,361.41,48,34,9,Mobile Money,Tobacco,0
+64,Male,Lilongwe,Southern,12.99,256.07,32,55,6,Bank Transfer,Soybean,0
+51,Female,Zomba,Central,13.5,151.93,22,24,2,Mobile Money,Groundnuts,0
+49,Female,Blantyre,Southern,3.67,326.29,7,49,5,Mobile Money,Tobacco,0
+65,Male,Mzuzu,Central,11.52,163.79,9,26,2,Bank Transfer,Maize,0
+42,Male,Lilongwe,Northern,15.55,309.93,45,16,6,Bank Transfer,Soybean,0
+57,Male,Lilongwe,Central,10.23,211.64,1,57,6,Bank Transfer,Groundnuts,1
+62,Male,Mzuzu,Northern,0.74,420.6,29,47,7,Bank Transfer,Maize,0
+18,Male,Lilongwe,Central,0.68,419.31,8,13,1,Cash,Groundnuts,0
+33,Male,Zomba,Northern,7.46,264.81,4,15,8,Cash,Tobacco,1
+56,Female,Zomba,Southern,18.56,207.87,35,27,4,Mobile Money,Tobacco,0
+22,Male,Zomba,Northern,4.96,213.15,3,4,8,Cash,Maize,0
+39,Female,Zomba,Southern,12.87,412.57,45,16,9,Mobile Money,Groundnuts,0
+46,Female,Lilongwe,Southern,4.83,197.68,40,30,4,Cash,Soybean,0
+20,Male,Mzuzu,Northern,6.77,144.08,7,44,6,Bank Transfer,Soybean,1
+29,Female,Mzuzu,Central,17.04,88.11,27,30,8,Bank Transfer,Maize,0
+43,Female,Mzuzu,Central,14.71,260.01,1,36,3,Cash,Maize,0
+33,Female,Mzuzu,Central,2.36,266.96,27,3,1,Cash,Maize,0
+68,Female,Blantyre,Central,8.86,428.41,16,22,8,Mobile Money,Groundnuts,0
+54,Female,Mzuzu,Central,1.07,149.56,38,49,1,Mobile Money,Soybean,0
+39,Female,Blantyre,Southern,9.88,221.45,7,22,2,Mobile Money,Soybean,0
+46,Male,Blantyre,Central,13.42,413.78,44,50,9,Bank Transfer,Soybean,0
+31,Female,Zomba,Southern,2.81,420.63,23,57,1,Bank Transfer,Maize,0
+45,Female,Blantyre,Southern,6.13,223.07,41,50,2,Bank Transfer,Soybean,0
+22,Female,Lilongwe,Southern,8.26,256.61,11,55,5,Bank Transfer,Tobacco,0
+64,Male,Blantyre,Northern,18.43,186.48,42,49,2,Mobile Money,Maize,0
+66,Female,Zomba,Northern,19.87,469.65,33,12,9,Bank Transfer,Soybean,0
+47,Male,Blantyre,Southern,1.38,103.39,36,55,7,Bank Transfer,Groundnuts,0
+63,Female,Lilongwe,Northern,15.34,470.19,37,21,5,Bank Transfer,Maize,0
+69,Male,Lilongwe,Central,7.75,357.74,41,56,6,Bank Transfer,Tobacco,0
+22,Male,Lilongwe,Central,8.15,289.21,17,4,0,Cash,Tobacco,0
+29,Female,Zomba,Southern,15.21,64.7,35,31,2,Mobile Money,Groundnuts,0
+33,Female,Zomba,Central,18.41,264.02,48,44,2,Mobile Money,Groundnuts,0
+43,Male,Mzuzu,Southern,19.04,233.49,5,31,1,Bank Transfer,Maize,0
+43,Female,Zomba,Southern,11.75,122.55,48,58,6,Cash,Maize,0
+65,Male,Lilongwe,Central,7.46,345.38,32,23,8,Mobile Money,Tobacco,0
+38,Male,Lilongwe,Northern,15.86,487.02,3,54,3,Mobile Money,Groundnuts,0
+56,Male,Zomba,Central,5.39,302.98,47,53,4,Bank Transfer,Maize,0
+53,Male,Blantyre,Central,11.5,371.64,35,20,2,Bank Transfer,Tobacco,0
+50,Male,Zomba,Southern,7.49,80.8,14,15,8,Mobile Money,Groundnuts,0
+47,Female,Zomba,Southern,13.3,237.95,48,23,3,Mobile Money,Tobacco,0
+54,Male,Lilongwe,Southern,5.19,102.36,31,28,4,Cash,Soybean,0
+40,Male,Mzuzu,Southern,4.24,325.76,31,16,0,Mobile Money,Groundnuts,0
+27,Female,Lilongwe,Northern,18.41,472.32,17,37,1,Mobile Money,Maize,0
+22,Male,Mzuzu,Northern,2.49,347.8,24,21,8,Bank Transfer,Maize,0
+53,Female,Lilongwe,Northern,10.37,84.56,23,15,1,Mobile Money,Soybean,0
+51,Female,Zomba,Southern,4.81,209.6,18,17,4,Bank Transfer,Groundnuts,0
+69,Female,Lilongwe,Southern,1.26,297.8,14,50,7,Mobile Money,Tobacco,0
+48,Male,Lilongwe,Southern,1.2,231.44,15,37,2,Mobile Money,Maize,0
+27,Male,Lilongwe,Northern,3.92,425.14,15,13,5,Mobile Money,Soybean,0
+36,Male,Zomba,Southern,17.4,416.6,6,19,3,Cash,Soybean,0
+49,Female,Zomba,Central,6.01,325.32,27,30,6,Bank Transfer,Groundnuts,0
+18,Male,Zomba,Central,19.03,218.06,15,45,9,Cash,Groundnuts,0
+22,Female,Zomba,Southern,11.84,164.9,36,18,2,Mobile Money,Maize,0
+62,Male,Mzuzu,Central,9.01,97.64,8,14,5,Cash,Soybean,0
+21,Female,Mzuzu,Central,11.81,209.7,15,36,9,Bank Transfer,Tobacco,0
+33,Male,Blantyre,Northern,10.58,235.93,3,36,8,Mobile Money,Soybean,1
+41,Male,Zomba,Southern,15.3,354.12,47,20,9,Cash,Tobacco,0
+33,Male,Mzuzu,Southern,6.01,346.17,13,52,0,Cash,Tobacco,0
+19,Female,Lilongwe,Northern,7.38,81.55,41,19,2,Bank Transfer,Maize,0
+66,Female,Zomba,Central,17.93,227.87,34,45,1,Cash,Soybean,0
+45,Male,Blantyre,Central,18.96,131.8,24,44,7,Bank Transfer,Tobacco,0
+49,Male,Blantyre,Southern,17.9,120.57,40,7,6,Mobile Money,Groundnuts,0
+44,Female,Blantyre,Central,8.68,422.29,32,57,1,Mobile Money,Tobacco,0
+37,Female,Lilongwe,Northern,15.72,68.86,32,44,5,Cash,Groundnuts,0
+41,Female,Mzuzu,Northern,9.79,238.63,30,53,2,Mobile Money,Groundnuts,0
+29,Male,Lilongwe,Southern,10.2,125.69,49,4,7,Mobile Money,Soybean,0
+67,Female,Zomba,Northern,4.49,445.7,13,59,9,Cash,Groundnuts,0
+52,Male,Blantyre,Northern,12.03,300.67,1,34,2,Mobile Money,Tobacco,0
+50,Female,Lilongwe,Southern,4.13,154.12,34,2,9,Cash,Groundnuts,0
+50,Male,Lilongwe,Northern,6.97,276.09,15,5,8,Bank Transfer,Soybean,0
+68,Female,Mzuzu,Northern,17.17,379.17,44,55,0,Bank Transfer,Maize,0
+60,Female,Mzuzu,Northern,4.54,481.15,14,10,4,Bank Transfer,Tobacco,0
+54,Female,Blantyre,Central,1.89,149.2,29,32,2,Cash,Tobacco,0
+29,Female,Lilongwe,Southern,1.85,448.78,34,42,5,Cash,Soybean,0
+20,Female,Lilongwe,Southern,18.85,470.44,18,41,9,Mobile Money,Soybean,0
+18,Male,Mzuzu,Southern,10.38,462.39,7,13,1,Mobile Money,Soybean,0
+50,Female,Lilongwe,Central,8.48,335.94,29,39,8,Mobile Money,Soybean,0
+57,Female,Lilongwe,Central,16.31,333.42,31,5,5,Mobile Money,Tobacco,0
+27,Female,Lilongwe,Southern,16.8,231.44,25,58,6,Mobile Money,Maize,0
+60,Male,Mzuzu,Central,6.98,388.58,38,10,4,Cash,Groundnuts,0
+61,Female,Blantyre,Southern,14.03,289.08,14,10,8,Cash,Groundnuts,0
+46,Male,Zomba,Central,15.54,354.85,8,38,0,Bank Transfer,Maize,0
+30,Female,Blantyre,Northern,13.27,242.81,27,27,4,Bank Transfer,Maize,0
+29,Female,Zomba,Northern,3.46,379.17,2,51,9,Bank Transfer,Maize,1
+48,Male,Lilongwe,Southern,17.58,421.01,17,21,5,Bank Transfer,Soybean,0
+63,Female,Blantyre,Central,11.01,115.9,37,8,6,Cash,Tobacco,0
+19,Male,Zomba,Central,6.01,424.82,14,1,3,Cash,Tobacco,0
+68,Male,Mzuzu,Northern,8.79,293.13,25,28,0,Cash,Tobacco,0
+67,Female,Mzuzu,Northern,1.23,430.1,30,49,7,Mobile Money,Soybean,0
+52,Male,Blantyre,Central,2.99,244.09,29,39,9,Mobile Money,Tobacco,0
+40,Female,Blantyre,Central,15.43,220.57,20,14,3,Bank Transfer,Soybean,0
+34,Female,Lilongwe,Central,0.5,461.78,21,21,2,Mobile Money,Tobacco,0
+43,Male,Blantyre,Central,8.62,163.03,22,30,6,Cash,Maize,0
+25,Male,Lilongwe,Central,10.69,429.9,35,21,1,Bank Transfer,Groundnuts,0
+46,Male,Lilongwe,Central,1.57,267.81,37,49,7,Bank Transfer,Groundnuts,0
+43,Male,Mzuzu,Southern,19.48,281.34,16,9,5,Mobile Money,Soybean,0
+27,Female,Mzuzu,Central,4.91,188.81,49,17,6,Bank Transfer,Tobacco,0
+43,Female,Zomba,Northern,6.43,307.87,43,5,4,Mobile Money,Groundnuts,0
+51,Male,Mzuzu,Southern,6.43,196.35,17,58,8,Mobile Money,Maize,0
+68,Female,Mzuzu,Central,4.99,67.67,16,57,4,Bank Transfer,Maize,0
+58,Female,Blantyre,Northern,0.53,172.4,2,31,4,Mobile Money,Maize,0
+24,Female,Mzuzu,Southern,14.72,52.87,4,52,2,Mobile Money,Soybean,0
+21,Female,Zomba,Northern,19.35,490.26,21,40,0,Mobile Money,Soybean,0
+67,Male,Blantyre,Central,4.87,484.59,39,38,1,Mobile Money,Tobacco,0
+62,Male,Zomba,Central,13.43,227.82,34,43,7,Bank Transfer,Maize,0
+28,Female,Mzuzu,Central,14.97,377.77,30,19,0,Cash,Tobacco,0
+46,Male,Zomba,Central,17.04,205.61,6,36,6,Cash,Tobacco,1
+53,Male,Blantyre,Southern,8.74,351.99,17,50,4,Mobile Money,Maize,0
+42,Male,Lilongwe,Southern,6.41,412.44,39,33,2,Mobile Money,Tobacco,0
+38,Female,Zomba,Northern,6.84,476.04,25,13,6,Mobile Money,Groundnuts,0
+53,Female,Zomba,Central,14.4,230.1,5,14,8,Cash,Soybean,1
+27,Female,Blantyre,Northern,16.43,402.48,5,56,1,Mobile Money,Tobacco,0
+54,Male,Blantyre,Southern,4.04,169.67,20,33,7,Bank Transfer,Maize,0
+26,Female,Zomba,Central,7.73,495.65,16,29,8,Bank Transfer,Soybean,0
+41,Female,Mzuzu,Central,18.09,61.6,41,43,2,Bank Transfer,Soybean,0
+52,Male,Zomba,Southern,16.23,321.59,37,49,1,Cash,Tobacco,0
+66,Female,Blantyre,Southern,19.7,346.78,40,36,6,Mobile Money,Groundnuts,0
+52,Female,Lilongwe,Southern,15.21,359.62,9,58,4,Mobile Money,Tobacco,0
+65,Male,Lilongwe,Southern,8.17,104.17,5,44,4,Mobile Money,Groundnuts,0
+53,Male,Mzuzu,Southern,12.02,472.34,42,10,9,Cash,Soybean,0
+35,Male,Zomba,Central,13.39,131.53,2,31,4,Cash,Tobacco,0
+66,Female,Lilongwe,Southern,2.03,330.24,9,6,3,Cash,Maize,0
+56,Female,Zomba,Central,11.12,150.2,43,57,4,Cash,Tobacco,0
+49,Female,Blantyre,Central,14.33,188.25,36,1,3,Bank Transfer,Groundnuts,0
+41,Male,Lilongwe,Southern,3.76,295.91,22,7,5,Cash,Groundnuts,0
+40,Male,Mzuzu,Southern,15.72,237.74,22,58,3,Cash,Tobacco,0
+49,Female,Blantyre,Central,11.88,122.1,22,27,1,Cash,Groundnuts,0
+54,Female,Mzuzu,Southern,19.07,126.92,34,21,8,Mobile Money,Soybean,0
+29,Male,Blantyre,Southern,1.33,238.17,29,28,1,Mobile Money,Tobacco,0
+66,Male,Lilongwe,Southern,5.67,390.78,38,16,8,Mobile Money,Groundnuts,0
+30,Male,Mzuzu,Northern,12.23,454.08,46,56,9,Bank Transfer,Tobacco,0
+40,Male,Mzuzu,Central,6.28,87.86,33,46,5,Bank Transfer,Tobacco,0
+42,Female,Blantyre,Northern,14.43,226.9,18,23,8,Cash,Maize,0
+52,Male,Mzuzu,Southern,15.3,95.11,7,52,8,Mobile Money,Tobacco,1
+58,Female,Blantyre,Northern,2.5,57.47,1,20,2,Bank Transfer,Maize,0
+47,Female,Blantyre,Southern,10.52,347.77,33,38,0,Mobile Money,Groundnuts,0
+34,Female,Blantyre,Northern,10.42,321.1,1,54,0,Bank Transfer,Maize,0
+66,Male,Blantyre,Southern,7.7,123.36,24,25,2,Bank Transfer,Maize,0
+37,Male,Lilongwe,Northern,18.69,155.22,4,28,4,Cash,Maize,0
+65,Male,Blantyre,Northern,16.64,60.67,4,5,2,Cash,Soybean,0
+42,Male,Zomba,Northern,14.1,425.73,18,56,8,Bank Transfer,Maize,0
+39,Female,Mzuzu,Central,14.43,488.61,27,21,8,Cash,Tobacco,0
+30,Male,Zomba,Northern,9.5,110.96,43,18,2,Bank Transfer,Maize,0
+36,Male,Lilongwe,Central,18.46,154.16,32,47,2,Bank Transfer,Tobacco,0
+66,Female,Zomba,Southern,14.04,440.78,33,6,4,Mobile Money,Maize,0
+53,Male,Mzuzu,Northern,14.72,466.91,28,57,1,Cash,Soybean,0
+29,Female,Zomba,Southern,17.3,238.83,42,29,5,Cash,Groundnuts,0
+58,Female,Lilongwe,Southern,5.84,72.78,41,19,6,Cash,Maize,0
+36,Female,Blantyre,Northern,16.24,67.73,36,33,8,Mobile Money,Maize,0
+29,Female,Zomba,Central,4.31,308.28,6,1,5,Mobile Money,Soybean,0
+26,Female,Lilongwe,Northern,7.23,226.8,16,45,2,Mobile Money,Maize,0
+24,Female,Lilongwe,Southern,7.04,62.89,34,3,4,Cash,Tobacco,0
+45,Female,Mzuzu,Southern,19.58,312.46,23,42,3,Cash,Maize,0
+31,Female,Mzuzu,Northern,17.2,55.09,42,21,4,Cash,Maize,0
+48,Male,Zomba,Central,14.17,404.32,24,35,7,Mobile Money,Groundnuts,0
+69,Male,Blantyre,Central,14.68,187.89,49,41,7,Mobile Money,Groundnuts,0
+36,Male,Lilongwe,Southern,11.46,68.12,13,40,5,Bank Transfer,Maize,0
+64,Male,Zomba,Southern,18.97,314.76,18,3,0,Mobile Money,Soybean,0
+33,Female,Lilongwe,Central,10.18,228.96,13,25,7,Bank Transfer,Groundnuts,0
+22,Male,Lilongwe,Northern,7.92,488.21,49,45,7,Cash,Maize,0
+52,Female,Blantyre,Southern,3.68,294.89,37,38,1,Mobile Money,Groundnuts,0
+29,Male,Blantyre,Central,15.83,173.86,43,45,3,Cash,Maize,0
+42,Male,Zomba,Southern,14.82,369.25,39,55,1,Cash,Groundnuts,0
+69,Male,Blantyre,Northern,7.99,172.17,42,20,3,Cash,Groundnuts,0
+38,Female,Blantyre,Central,0.99,456.91,17,52,9,Cash,Tobacco,0
+53,Male,Zomba,Southern,16.86,218.62,15,44,6,Mobile Money,Maize,0
+40,Female,Blantyre,Northern,0.72,297.44,18,45,8,Cash,Maize,0
+33,Female,Mzuzu,Southern,14.22,72.76,23,34,7,Bank Transfer,Maize,0
+56,Male,Lilongwe,Northern,19.42,241.75,30,21,8,Mobile Money,Maize,0
+62,Male,Lilongwe,Northern,9.03,424.56,34,56,7,Cash,Groundnuts,0
+59,Male,Lilongwe,Central,5.08,412.54,4,55,1,Mobile Money,Tobacco,0
+56,Female,Lilongwe,Northern,14.24,150.94,3,48,6,Bank Transfer,Tobacco,1
+31,Male,Zomba,Southern,16.43,151.74,7,23,1,Cash,Soybean,0
+48,Female,Lilongwe,Northern,11.16,417.79,18,6,1,Bank Transfer,Maize,0
+22,Female,Lilongwe,Northern,19.36,468.68,42,51,3,Cash,Soybean,0
+52,Male,Lilongwe,Central,1.51,92.91,7,53,0,Bank Transfer,Groundnuts,0
+40,Male,Lilongwe,Northern,10.34,252.53,40,13,4,Cash,Soybean,0
+46,Female,Mzuzu,Northern,14.51,201.85,6,49,5,Mobile Money,Maize,0
+60,Female,Lilongwe,Southern,17.32,441.81,22,23,8,Cash,Tobacco,0
+28,Female,Mzuzu,Central,4.0,87.59,1,9,9,Mobile Money,Tobacco,0
+35,Male,Zomba,Central,16.1,145.01,4,17,7,Cash,Maize,1
+64,Female,Blantyre,Central,11.28,388.61,46,2,1,Cash,Groundnuts,0
+29,Male,Lilongwe,Northern,8.23,73.08,49,19,0,Bank Transfer,Maize,0
+26,Female,Blantyre,Central,3.07,271.64,43,19,1,Bank Transfer,Groundnuts,0
+27,Female,Blantyre,Northern,17.37,248.95,29,56,6,Bank Transfer,Tobacco,0
+61,Male,Zomba,Northern,3.57,200.48,21,7,3,Cash,Groundnuts,0
+34,Female,Blantyre,Southern,6.54,227.56,26,54,9,Cash,Maize,0
+55,Male,Mzuzu,Southern,6.16,288.47,14,42,4,Cash,Maize,0
+24,Male,Blantyre,Southern,17.49,122.62,9,42,6,Mobile Money,Maize,1
+63,Female,Blantyre,Southern,13.62,307.4,47,59,2,Mobile Money,Groundnuts,0
+30,Male,Blantyre,Southern,16.04,412.44,12,20,9,Cash,Groundnuts,0
+57,Male,Lilongwe,Northern,5.38,392.07,42,9,1,Bank Transfer,Groundnuts,0
+59,Female,Lilongwe,Northern,12.69,119.25,6,17,6,Bank Transfer,Tobacco,1
+26,Male,Mzuzu,Central,11.65,117.16,20,27,4,Bank Transfer,Soybean,0
+67,Male,Mzuzu,Northern,16.74,170.68,24,47,0,Cash,Soybean,0
+44,Male,Lilongwe,Northern,18.17,212.48,27,2,0,Bank Transfer,Maize,0
+19,Female,Mzuzu,Southern,0.74,233.81,38,36,8,Cash,Tobacco,0
+22,Male,Lilongwe,Northern,13.64,355.86,8,19,4,Mobile Money,Groundnuts,0
+46,Female,Zomba,Southern,1.51,75.51,1,17,0,Bank Transfer,Maize,0
+54,Female,Blantyre,Central,11.2,65.6,49,5,6,Mobile Money,Tobacco,0
+55,Male,Blantyre,Central,6.11,226.36,49,39,8,Bank Transfer,Maize,0
+36,Male,Mzuzu,Northern,6.48,363.72,24,18,0,Cash,Tobacco,0
+25,Male,Lilongwe,Central,7.38,137.05,47,53,9,Cash,Tobacco,0
+65,Female,Lilongwe,Northern,12.62,338.68,7,54,3,Cash,Soybean,0
+62,Male,Mzuzu,Central,7.01,166.92,19,59,2,Cash,Maize,0
+18,Male,Lilongwe,Southern,14.79,448.74,22,7,4,Bank Transfer,Groundnuts,0
+39,Male,Zomba,Southern,8.39,453.06,35,17,6,Mobile Money,Soybean,0
+69,Male,Blantyre,Southern,1.83,183.78,30,39,7,Cash,Soybean,0
+34,Male,Mzuzu,Southern,15.78,153.5,29,36,1,Bank Transfer,Groundnuts,0
+24,Female,Mzuzu,Northern,6.07,235.09,22,40,6,Mobile Money,Tobacco,0
+42,Female,Lilongwe,Central,8.94,158.24,11,45,0,Cash,Groundnuts,0
+62,Male,Mzuzu,Northern,13.87,352.57,20,4,6,Mobile Money,Maize,0
+21,Male,Zomba,Southern,6.98,421.73,29,38,7,Cash,Groundnuts,0
+53,Male,Lilongwe,Northern,1.6,352.89,41,25,1,Mobile Money,Tobacco,0
+23,Male,Lilongwe,Central,7.79,420.96,42,5,8,Mobile Money,Groundnuts,0
+48,Female,Lilongwe,Northern,18.92,228.65,34,30,0,Cash,Tobacco,0
+36,Male,Lilongwe,Central,13.01,120.34,1,12,5,Bank Transfer,Tobacco,0
+61,Female,Zomba,Northern,13.59,382.08,31,4,0,Mobile Money,Maize,0
+56,Female,Lilongwe,Central,12.83,212.21,30,24,2,Cash,Groundnuts,0
+44,Male,Mzuzu,Central,4.38,352.07,48,29,5,Mobile Money,Groundnuts,0
+27,Female,Zomba,Southern,8.66,171.79,18,9,2,Mobile Money,Maize,0
+43,Female,Blantyre,Central,15.14,86.55,17,4,7,Bank Transfer,Tobacco,0
+36,Female,Blantyre,Southern,2.48,496.66,38,51,4,Mobile Money,Groundnuts,0
+56,Female,Mzuzu,Southern,5.92,120.29,14,24,1,Mobile Money,Maize,0
+20,Male,Mzuzu,Southern,5.89,494.79,23,14,3,Cash,Tobacco,0
+62,Male,Zomba,Northern,8.92,489.78,25,5,8,Cash,Maize,0
+30,Female,Blantyre,Northern,19.62,407.22,15,18,3,Bank Transfer,Groundnuts,0
+67,Male,Blantyre,Northern,1.82,346.74,46,42,9,Mobile Money,Maize,0
+45,Male,Blantyre,Northern,10.61,310.01,22,57,9,Mobile Money,Soybean,0
+37,Male,Blantyre,Central,4.0,439.75,3,19,7,Mobile Money,Tobacco,1
+45,Male,Blantyre,Central,19.43,180.25,19,12,4,Bank Transfer,Soybean,0
+25,Male,Lilongwe,Northern,2.71,260.46,44,18,9,Mobile Money,Soybean,0
+58,Female,Mzuzu,Central,8.37,328.73,34,17,0,Cash,Tobacco,0
+56,Male,Lilongwe,Central,14.89,235.04,35,30,6,Bank Transfer,Tobacco,0
+18,Male,Blantyre,Southern,14.24,242.37,1,24,2,Cash,Maize,0
+20,Male,Zomba,Southern,8.74,198.63,21,11,9,Cash,Tobacco,0
+30,Male,Zomba,Southern,7.26,303.9,29,35,7,Bank Transfer,Soybean,0
+45,Female,Blantyre,Southern,8.25,432.76,6,23,2,Cash,Soybean,0
+66,Female,Blantyre,Central,5.65,140.69,37,17,0,Mobile Money,Groundnuts,0
+42,Female,Zomba,Northern,4.5,470.49,1,1,4,Bank Transfer,Tobacco,0
+50,Female,Lilongwe,Central,9.92,360.09,1,15,1,Cash,Soybean,0
+55,Male,Lilongwe,Central,5.74,420.47,27,32,3,Mobile Money,Groundnuts,0
+23,Female,Blantyre,Central,6.11,300.29,21,9,0,Mobile Money,Groundnuts,0
+61,Male,Lilongwe,Southern,13.31,400.78,16,15,8,Cash,Maize,0
+62,Male,Zomba,Southern,19.39,57.29,44,28,5,Mobile Money,Soybean,0
+49,Male,Lilongwe,Southern,12.27,418.27,40,24,7,Bank Transfer,Maize,0
+62,Male,Blantyre,Northern,2.0,68.06,26,35,3,Cash,Soybean,0
+64,Male,Zomba,Central,1.97,450.46,16,22,8,Mobile Money,Maize,0
+38,Female,Lilongwe,Northern,19.05,496.38,28,27,1,Mobile Money,Maize,0
+33,Female,Mzuzu,Southern,6.3,182.33,1,19,8,Cash,Tobacco,1
+38,Female,Zomba,Northern,2.3,144.64,36,45,4,Cash,Maize,0
+28,Female,Zomba,Central,12.18,394.41,10,12,5,Cash,Tobacco,0
+54,Male,Mzuzu,Central,12.66,163.86,43,20,2,Cash,Groundnuts,0
+53,Female,Mzuzu,Southern,13.15,439.5,17,1,3,Bank Transfer,Soybean,0
+52,Male,Zomba,Southern,5.71,96.28,23,21,5,Cash,Groundnuts,0
+36,Female,Mzuzu,Northern,0.79,106.68,7,49,6,Bank Transfer,Soybean,1
+37,Male,Blantyre,Southern,19.32,490.62,44,45,0,Bank Transfer,Groundnuts,0
+35,Male,Blantyre,Southern,5.39,353.23,7,1,6,Cash,Soybean,0
+64,Female,Blantyre,Central,13.68,431.1,44,10,0,Bank Transfer,Maize,0
+58,Male,Zomba,Southern,14.28,195.95,15,47,4,Cash,Soybean,0
+66,Male,Mzuzu,Southern,12.4,354.42,34,59,5,Cash,Soybean,0
+31,Female,Mzuzu,Central,6.6,317.41,46,59,1,Mobile Money,Groundnuts,0
+32,Male,Lilongwe,Central,5.79,321.42,45,32,9,Cash,Groundnuts,0
+48,Female,Lilongwe,Northern,12.15,357.14,4,39,8,Mobile Money,Groundnuts,1
+18,Female,Mzuzu,Southern,17.39,308.91,14,22,9,Bank Transfer,Tobacco,0
+20,Female,Mzuzu,Central,18.96,243.08,14,18,5,Mobile Money,Tobacco,0
+33,Male,Mzuzu,Northern,2.57,174.17,16,48,6,Bank Transfer,Soybean,0
+40,Male,Zomba,Northern,3.52,395.86,7,46,9,Cash,Soybean,1
+28,Male,Mzuzu,Southern,18.92,151.82,32,32,7,Bank Transfer,Maize,0
+29,Female,Lilongwe,Southern,14.86,361.56,19,27,9,Bank Transfer,Maize,0
+27,Male,Zomba,Northern,17.72,155.0,2,28,0,Cash,Soybean,0
+49,Female,Mzuzu,Central,4.45,331.4,10,18,7,Bank Transfer,Tobacco,0
+33,Female,Lilongwe,Northern,11.96,386.19,17,59,3,Cash,Soybean,0
+25,Male,Zomba,Southern,14.17,148.42,37,39,9,Mobile Money,Maize,0
+55,Female,Mzuzu,Central,13.76,76.97,12,49,7,Cash,Tobacco,0
+29,Male,Mzuzu,Central,8.46,108.94,6,29,5,Cash,Tobacco,0
+41,Male,Mzuzu,Northern,0.8,322.7,22,18,8,Bank Transfer,Maize,0
+45,Male,Zomba,Southern,11.87,432.25,32,44,3,Mobile Money,Soybean,0
+25,Male,Lilongwe,Northern,5.44,70.25,41,8,1,Cash,Groundnuts,0
+45,Male,Lilongwe,Northern,9.28,380.37,20,54,1,Mobile Money,Soybean,0
+53,Female,Blantyre,Northern,19.17,203.59,1,31,4,Mobile Money,Soybean,0
+43,Female,Mzuzu,Central,8.28,265.34,47,34,9,Bank Transfer,Maize,0
+25,Female,Blantyre,Central,16.88,467.99,6,7,8,Cash,Tobacco,0
+67,Male,Blantyre,Southern,4.18,199.39,19,36,2,Bank Transfer,Maize,0
+45,Male,Lilongwe,Southern,13.61,259.4,18,18,7,Cash,Soybean,0
+45,Male,Zomba,Northern,19.55,56.16,6,38,3,Mobile Money,Groundnuts,0
+54,Female,Zomba,Northern,2.49,86.72,45,59,5,Cash,Groundnuts,0
+58,Male,Lilongwe,Northern,0.66,166.37,33,9,9,Cash,Groundnuts,0
+53,Female,Zomba,Southern,8.95,62.53,23,59,5,Mobile Money,Maize,0
+44,Female,Blantyre,Central,2.31,334.12,23,9,2,Mobile Money,Tobacco,0
+34,Male,Mzuzu,Central,15.09,241.88,26,46,4,Cash,Maize,0
+26,Male,Lilongwe,Northern,18.33,296.67,13,8,2,Bank Transfer,Groundnuts,0
+50,Female,Mzuzu,Northern,8.96,128.59,7,51,0,Cash,Soybean,0
+37,Male,Zomba,Northern,5.54,183.17,15,35,6,Mobile Money,Tobacco,0
+30,Female,Mzuzu,Northern,8.97,348.72,44,18,3,Bank Transfer,Maize,0
+45,Male,Zomba,Southern,14.61,484.39,27,5,6,Mobile Money,Maize,0
+65,Male,Zomba,Central,0.68,72.69,26,14,2,Mobile Money,Tobacco,0
+46,Female,Blantyre,Northern,11.99,450.67,33,28,4,Bank Transfer,Tobacco,0
+30,Male,Zomba,Southern,12.46,309.6,15,30,4,Mobile Money,Soybean,0
+63,Female,Blantyre,Northern,12.93,303.76,36,4,1,Mobile Money,Tobacco,0
+52,Male,Blantyre,Northern,5.22,275.13,45,39,9,Mobile Money,Soybean,0
+23,Female,Blantyre,Central,14.42,81.23,27,20,1,Mobile Money,Groundnuts,0
+35,Female,Lilongwe,Northern,2.28,90.44,5,25,3,Mobile Money,Groundnuts,0
+68,Male,Lilongwe,Central,4.39,320.41,2,28,3,Mobile Money,Maize,0
+22,Female,Zomba,Central,17.61,203.43,33,12,3,Mobile Money,Groundnuts,0
+64,Male,Blantyre,Central,14.91,462.77,16,2,5,Mobile Money,Groundnuts,0
+42,Male,Lilongwe,Southern,0.77,232.97,23,43,1,Mobile Money,Soybean,0
+19,Male,Blantyre,Southern,5.34,114.48,38,14,5,Cash,Maize,0
+27,Female,Mzuzu,Central,4.68,371.62,16,22,6,Cash,Tobacco,0
+47,Female,Mzuzu,Northern,5.78,182.01,14,31,9,Mobile Money,Maize,0
+67,Male,Mzuzu,Central,5.33,286.46,29,23,2,Cash,Groundnuts,0
+62,Male,Zomba,Northern,1.72,364.02,26,48,7,Bank Transfer,Tobacco,0
+22,Female,Blantyre,Central,9.45,455.12,35,20,1,Cash,Maize,0
+50,Male,Mzuzu,Northern,14.79,406.49,15,38,7,Mobile Money,Maize,0
+18,Male,Lilongwe,Southern,12.33,354.36,3,55,4,Mobile Money,Maize,0
+35,Female,Mzuzu,Northern,13.62,355.83,23,4,1,Cash,Maize,0
+49,Male,Mzuzu,Central,2.08,475.67,29,15,6,Mobile Money,Soybean,0
+64,Female,Mzuzu,Southern,19.05,183.12,34,24,1,Bank Transfer,Maize,0
+66,Male,Zomba,Northern,16.85,50.5,33,25,5,Bank Transfer,Groundnuts,0
+28,Female,Lilongwe,Northern,16.2,172.38,41,1,9,Mobile Money,Groundnuts,0
+38,Male,Blantyre,Northern,16.55,148.05,41,7,2,Bank Transfer,Soybean,0
+43,Male,Lilongwe,Northern,18.69,347.83,23,57,8,Bank Transfer,Tobacco,0
+42,Female,Blantyre,Northern,11.11,335.17,7,31,2,Cash,Tobacco,0
+39,Male,Zomba,Southern,4.41,317.06,3,12,2,Bank Transfer,Groundnuts,0
+44,Female,Zomba,Southern,12.53,57.31,32,42,4,Cash,Groundnuts,0
+66,Male,Zomba,Southern,14.99,377.95,31,5,6,Mobile Money,Soybean,0
+30,Female,Zomba,Southern,14.89,195.59,18,44,7,Cash,Tobacco,0
+50,Female,Blantyre,Central,10.67,349.28,43,50,6,Mobile Money,Tobacco,0
+51,Female,Mzuzu,Southern,1.83,300.46,7,42,8,Mobile Money,Maize,1
+58,Female,Blantyre,Northern,7.74,204.23,41,38,4,Mobile Money,Maize,0
+52,Male,Lilongwe,Northern,18.45,110.56,1,12,9,Mobile Money,Maize,0
+18,Male,Zomba,Southern,11.9,92.49,14,39,2,Mobile Money,Soybean,0
+38,Female,Zomba,Northern,11.0,424.18,32,18,5,Cash,Groundnuts,0
+65,Female,Lilongwe,Southern,5.74,463.28,6,2,4,Mobile Money,Soybean,0
+23,Female,Blantyre,Northern,7.68,342.4,39,10,3,Bank Transfer,Tobacco,0
+45,Male,Mzuzu,Central,17.96,96.55,10,15,1,Bank Transfer,Groundnuts,0
+34,Male,Mzuzu,Central,13.5,230.91,7,30,6,Mobile Money,Maize,1
+22,Male,Lilongwe,Southern,15.85,378.02,26,44,4,Bank Transfer,Soybean,0
+48,Male,Mzuzu,Southern,9.36,400.92,34,58,3,Cash,Soybean,0
+22,Female,Blantyre,Southern,12.79,103.2,30,17,7,Cash,Maize,0
+55,Female,Blantyre,Northern,5.34,50.01,36,4,8,Mobile Money,Soybean,0
+20,Female,Lilongwe,Southern,14.26,370.46,21,7,8,Mobile Money,Maize,0
+40,Male,Blantyre,Central,8.84,210.47,17,41,2,Mobile Money,Tobacco,0
+54,Male,Zomba,Northern,9.13,164.52,33,31,2,Bank Transfer,Groundnuts,0
+54,Male,Lilongwe,Southern,13.16,55.8,10,51,4,Bank Transfer,Tobacco,0
+27,Female,Blantyre,Northern,18.76,293.13,47,59,4,Cash,Tobacco,0
+27,Female,Lilongwe,Northern,1.75,433.02,42,55,9,Bank Transfer,Maize,0
+36,Male,Mzuzu,Southern,16.58,480.93,12,39,1,Cash,Soybean,0
+34,Female,Blantyre,Northern,6.2,304.59,16,55,0,Bank Transfer,Tobacco,0
+38,Male,Zomba,Central,9.16,281.51,41,34,7,Cash,Tobacco,0
+31,Male,Blantyre,Central,0.93,88.28,32,6,2,Mobile Money,Tobacco,0
+26,Female,Lilongwe,Northern,6.37,296.99,15,50,0,Bank Transfer,Soybean,0
+63,Male,Lilongwe,Southern,10.3,220.99,27,38,0,Cash,Soybean,0
+18,Female,Blantyre,Northern,1.6,323.21,28,45,1,Bank Transfer,Maize,0
+68,Male,Zomba,Central,10.08,224.93,17,58,5,Mobile Money,Tobacco,0
+62,Female,Zomba,Northern,18.58,158.13,46,51,5,Cash,Groundnuts,0
+30,Female,Zomba,Northern,2.56,92.73,2,34,2,Bank Transfer,Soybean,0
+21,Female,Lilongwe,Central,15.41,191.71,36,44,3,Bank Transfer,Maize,0
+18,Male,Blantyre,Northern,8.49,93.49,7,15,1,Mobile Money,Tobacco,0
+66,Male,Mzuzu,Northern,13.28,129.6,13,14,1,Mobile Money,Groundnuts,0
+57,Female,Lilongwe,Southern,5.57,494.3,15,6,6,Cash,Soybean,0
+49,Female,Zomba,Southern,3.61,249.85,25,50,0,Bank Transfer,Groundnuts,0
+51,Male,Blantyre,Central,3.63,289.34,23,37,6,Bank Transfer,Soybean,0
+45,Male,Zomba,Central,1.87,443.13,22,50,0,Mobile Money,Maize,0
+48,Male,Mzuzu,Central,4.12,498.01,26,32,5,Mobile Money,Groundnuts,0
+25,Female,Zomba,Southern,13.45,312.22,33,3,2,Cash,Tobacco,0
+56,Male,Zomba,Central,17.69,415.61,11,3,7,Bank Transfer,Tobacco,0
+43,Male,Mzuzu,Central,16.38,197.12,10,22,5,Bank Transfer,Soybean,0
+51,Female,Blantyre,Central,13.86,187.58,25,22,1,Cash,Tobacco,0
+20,Male,Lilongwe,Southern,2.65,231.22,37,10,7,Cash,Groundnuts,0
+67,Male,Blantyre,Northern,6.14,352.63,48,51,4,Mobile Money,Maize,0
+29,Male,Mzuzu,Central,6.54,356.99,43,3,7,Mobile Money,Soybean,0
+18,Female,Zomba,Northern,5.37,191.86,38,12,7,Cash,Groundnuts,0
+61,Female,Blantyre,Central,10.54,109.94,41,29,5,Cash,Soybean,0
+22,Female,Lilongwe,Northern,10.94,334.58,45,48,1,Bank Transfer,Maize,0
+47,Female,Mzuzu,Southern,7.46,107.75,24,17,7,Cash,Soybean,0
+47,Female,Blantyre,Southern,7.4,310.32,40,7,5,Cash,Tobacco,0
+34,Female,Lilongwe,Central,16.66,362.04,46,13,5,Bank Transfer,Tobacco,0
+65,Female,Mzuzu,Northern,15.89,365.28,33,56,7,Cash,Soybean,0
+64,Male,Lilongwe,Southern,6.5,389.06,17,2,0,Mobile Money,Maize,0
+40,Male,Mzuzu,Central,18.32,442.79,24,4,1,Mobile Money,Maize,0
+32,Female,Zomba,Central,19.08,274.98,37,10,8,Bank Transfer,Tobacco,0
+54,Male,Blantyre,Southern,6.87,378.61,2,39,7,Cash,Maize,1
+38,Male,Lilongwe,Southern,7.41,328.63,32,24,6,Mobile Money,Soybean,0
+31,Female,Mzuzu,Central,10.36,133.99,24,17,6,Mobile Money,Groundnuts,0
+19,Male,Lilongwe,Northern,18.85,61.56,9,52,4,Mobile Money,Soybean,0
+28,Male,Lilongwe,Northern,17.59,178.04,4,6,1,Mobile Money,Tobacco,0
+68,Male,Blantyre,Northern,2.5,249.37,17,19,5,Cash,Tobacco,0
+56,Male,Zomba,Central,8.16,327.7,17,5,9,Cash,Tobacco,0
+55,Male,Lilongwe,Southern,11.29,432.48,48,32,2,Cash,Maize,0
+51,Female,Mzuzu,Central,10.31,138.31,30,10,3,Cash,Soybean,0
+55,Female,Mzuzu,Southern,4.28,106.5,40,9,9,Mobile Money,Groundnuts,0
+67,Female,Zomba,Northern,17.25,483.57,11,27,1,Bank Transfer,Soybean,0
+51,Male,Mzuzu,Northern,13.7,98.62,21,13,1,Bank Transfer,Groundnuts,0
+35,Female,Zomba,Southern,16.84,265.32,21,19,7,Mobile Money,Soybean,0
+47,Male,Mzuzu,Southern,17.25,313.5,18,21,7,Mobile Money,Tobacco,0
+32,Male,Blantyre,Central,15.09,293.62,29,24,9,Bank Transfer,Groundnuts,0
+44,Male,Lilongwe,Northern,9.06,88.71,24,38,5,Bank Transfer,Soybean,0
+68,Male,Blantyre,Central,12.41,75.66,10,4,4,Mobile Money,Maize,0
+51,Female,Lilongwe,Central,3.63,97.47,45,24,7,Mobile Money,Maize,0
+69,Female,Lilongwe,Central,13.64,313.51,17,59,3,Cash,Soybean,0
+55,Male,Lilongwe,Northern,4.0,294.96,18,35,3,Cash,Tobacco,0
+50,Female,Blantyre,Central,14.03,155.18,42,3,4,Bank Transfer,Groundnuts,0
+41,Male,Lilongwe,Central,4.98,337.0,48,4,0,Mobile Money,Soybean,0
+32,Female,Blantyre,Central,2.79,419.03,20,57,0,Bank Transfer,Maize,0
+47,Female,Zomba,Central,3.72,68.71,37,37,1,Cash,Groundnuts,0
+59,Male,Mzuzu,Central,0.54,274.16,45,40,7,Cash,Maize,0
+68,Female,Mzuzu,Central,14.52,360.19,18,48,6,Bank Transfer,Maize,0
+34,Male,Lilongwe,Northern,14.78,163.54,17,54,9,Cash,Soybean,0
+22,Female,Blantyre,Central,10.54,188.5,9,35,8,Mobile Money,Maize,1
+46,Male,Mzuzu,Southern,3.65,326.14,14,31,4,Bank Transfer,Groundnuts,0
+21,Male,Blantyre,Central,2.13,454.07,49,56,1,Mobile Money,Tobacco,0
+27,Female,Blantyre,Central,0.87,414.47,29,44,6,Mobile Money,Soybean,0
+34,Female,Lilongwe,Northern,3.73,312.41,31,25,7,Cash,Groundnuts,0
+27,Male,Mzuzu,Northern,17.87,378.6,4,40,6,Mobile Money,Soybean,1
+34,Female,Lilongwe,Southern,5.21,214.17,18,13,6,Bank Transfer,Maize,0
+37,Female,Lilongwe,Southern,7.41,338.43,20,4,4,Mobile Money,Maize,0
+41,Male,Mzuzu,Northern,2.55,259.78,47,46,1,Mobile Money,Groundnuts,0
+22,Male,Mzuzu,Northern,4.84,135.47,43,14,5,Mobile Money,Groundnuts,0
+51,Female,Zomba,Central,10.62,365.78,44,13,3,Mobile Money,Tobacco,0
+23,Male,Zomba,Northern,12.35,300.41,9,27,9,Mobile Money,Groundnuts,1
+19,Male,Blantyre,Southern,5.28,211.38,13,6,1,Cash,Groundnuts,0
+30,Male,Mzuzu,Central,1.63,460.1,15,17,8,Bank Transfer,Soybean,0
+60,Female,Zomba,Southern,8.13,59.42,27,36,6,Cash,Maize,0
+60,Female,Blantyre,Central,5.07,192.1,15,40,5,Bank Transfer,Groundnuts,0
+65,Male,Blantyre,Northern,4.78,75.6,28,49,4,Bank Transfer,Tobacco,0
+28,Female,Blantyre,Southern,19.22,394.94,37,35,2,Bank Transfer,Groundnuts,0
+68,Male,Zomba,Central,12.52,365.95,19,17,9,Bank Transfer,Maize,0
+64,Female,Mzuzu,Central,11.36,199.11,26,41,9,Bank Transfer,Groundnuts,0
+40,Male,Lilongwe,Northern,8.61,354.05,26,2,3,Mobile Money,Soybean,0
+33,Male,Blantyre,Northern,8.86,228.17,25,57,2,Cash,Maize,0
+48,Female,Zomba,Northern,11.05,390.31,26,13,7,Cash,Groundnuts,0
+28,Male,Zomba,Southern,14.08,254.38,26,52,2,Mobile Money,Soybean,0
+33,Female,Lilongwe,Central,14.19,235.53,46,2,6,Bank Transfer,Maize,0
+25,Female,Lilongwe,Northern,3.85,470.63,28,52,6,Cash,Groundnuts,0
+21,Male,Zomba,Southern,10.25,162.9,49,28,6,Mobile Money,Soybean,0
+57,Male,Mzuzu,Southern,8.53,104.2,18,43,6,Mobile Money,Tobacco,0
+21,Female,Lilongwe,Southern,17.48,313.04,32,59,1,Cash,Soybean,0
+42,Male,Zomba,Northern,12.81,486.19,3,26,9,Cash,Tobacco,1
+20,Male,Lilongwe,Northern,10.88,220.03,2,22,2,Bank Transfer,Groundnuts,0
+49,Male,Mzuzu,Central,2.75,77.92,33,47,9,Bank Transfer,Soybean,0
+20,Male,Blantyre,Central,12.31,202.69,42,43,8,Cash,Tobacco,0
+44,Male,Lilongwe,Northern,2.79,277.67,19,55,2,Bank Transfer,Maize,0
+46,Female,Mzuzu,Southern,7.08,122.87,17,3,1,Mobile Money,Soybean,0
+49,Female,Zomba,Southern,3.29,346.15,44,35,8,Bank Transfer,Groundnuts,0
+67,Male,Lilongwe,Southern,14.0,498.99,33,58,9,Bank Transfer,Maize,0
+68,Male,Lilongwe,Central,4.52,253.28,12,12,8,Mobile Money,Tobacco,0
+36,Male,Zomba,Southern,8.14,209.63,49,24,3,Bank Transfer,Soybean,0
+38,Female,Blantyre,Central,17.97,230.32,3,5,8,Mobile Money,Soybean,0
+22,Male,Zomba,Central,4.48,101.82,43,20,2,Bank Transfer,Groundnuts,0
+35,Female,Lilongwe,Southern,10.4,447.47,49,39,6,Cash,Maize,0
+45,Female,Zomba,Southern,8.68,236.67,26,39,6,Bank Transfer,Soybean,0
+59,Female,Mzuzu,Northern,0.85,224.27,35,13,7,Cash,Soybean,0
+39,Male,Zomba,Northern,15.96,346.86,8,41,9,Cash,Maize,1
+38,Female,Lilongwe,Southern,1.85,248.92,36,57,3,Cash,Soybean,0
+23,Male,Zomba,Central,9.75,341.71,7,53,2,Cash,Maize,0
+18,Female,Blantyre,Central,11.43,77.65,46,45,2,Cash,Maize,0
+22,Male,Zomba,Central,12.75,416.18,46,12,4,Mobile Money,Maize,0
+58,Female,Blantyre,Central,13.93,473.23,36,13,0,Mobile Money,Groundnuts,0
+29,Male,Mzuzu,Central,5.44,341.94,16,56,9,Mobile Money,Maize,0
+43,Female,Blantyre,Northern,0.69,479.55,24,10,2,Cash,Maize,0
+63,Male,Zomba,Southern,14.61,118.14,1,33,5,Bank Transfer,Tobacco,0
+51,Male,Lilongwe,Northern,10.95,264.84,49,57,2,Mobile Money,Tobacco,0
+66,Male,Blantyre,Central,16.8,320.81,25,40,4,Bank Transfer,Groundnuts,0
+31,Male,Mzuzu,Central,16.52,311.78,10,54,8,Bank Transfer,Maize,0
+43,Female,Blantyre,Central,16.94,230.66,16,16,1,Cash,Tobacco,0
+62,Female,Blantyre,Central,9.96,202.14,16,45,1,Cash,Tobacco,0
+44,Male,Blantyre,Southern,7.01,107.07,8,35,5,Cash,Soybean,0
+26,Female,Mzuzu,Central,15.94,226.28,29,3,5,Mobile Money,Maize,0
+43,Male,Zomba,Southern,9.3,123.2,39,56,7,Cash,Tobacco,0
+64,Male,Blantyre,Central,4.08,380.46,28,5,1,Mobile Money,Groundnuts,0
+39,Female,Blantyre,Southern,17.17,143.97,6,26,8,Mobile Money,Soybean,1
+64,Male,Lilongwe,Northern,17.71,76.35,16,11,1,Mobile Money,Soybean,0
+47,Male,Mzuzu,Central,9.59,298.56,20,7,0,Mobile Money,Maize,0
+60,Female,Blantyre,Southern,1.98,317.85,16,53,9,Cash,Maize,0
+65,Male,Mzuzu,Northern,8.06,442.36,7,56,1,Mobile Money,Soybean,0
+34,Male,Blantyre,Central,16.17,309.64,41,10,6,Cash,Groundnuts,0
+43,Male,Zomba,Central,18.08,205.47,14,42,7,Cash,Maize,0
+53,Male,Zomba,Central,4.47,411.36,43,52,4,Mobile Money,Maize,0
+18,Female,Blantyre,Southern,1.81,293.13,26,34,5,Cash,Soybean,0
+25,Female,Zomba,Southern,17.61,85.68,26,3,0,Bank Transfer,Soybean,0
+66,Female,Blantyre,Northern,8.09,304.63,14,8,5,Cash,Maize,0
+52,Male,Zomba,Southern,11.06,458.61,7,31,7,Cash,Tobacco,1
+69,Male,Lilongwe,Southern,19.38,228.34,33,11,2,Mobile Money,Maize,0
+32,Female,Lilongwe,Central,1.8,183.35,26,45,0,Mobile Money,Tobacco,0
+64,Male,Lilongwe,Central,13.14,114.56,45,7,3,Cash,Soybean,0
+39,Male,Mzuzu,Central,1.95,118.15,20,45,0,Mobile Money,Tobacco,0
+31,Male,Mzuzu,Central,7.82,244.75,3,2,7,Bank Transfer,Groundnuts,0
+43,Male,Lilongwe,Central,16.17,318.06,4,6,4,Bank Transfer,Soybean,0
+45,Female,Mzuzu,Central,8.95,86.28,26,41,0,Mobile Money,Maize,0
+40,Female,Zomba,Central,19.95,472.81,11,32,7,Cash,Maize,0
+31,Female,Blantyre,Northern,11.4,389.81,2,20,8,Bank Transfer,Soybean,1
+41,Male,Blantyre,Northern,6.76,313.98,14,57,9,Bank Transfer,Soybean,0
+19,Female,Blantyre,Northern,4.79,422.8,44,34,1,Cash,Groundnuts,0
+62,Female,Lilongwe,Northern,7.34,86.08,30,50,8,Mobile Money,Soybean,0
+43,Male,Mzuzu,Central,7.76,264.58,49,16,7,Bank Transfer,Maize,0
+31,Male,Zomba,Northern,1.84,333.54,12,25,6,Cash,Groundnuts,0
+68,Female,Zomba,Central,7.71,422.89,26,12,2,Cash,Maize,0
+24,Female,Lilongwe,Northern,9.55,402.56,44,7,1,Bank Transfer,Tobacco,0
+20,Female,Zomba,Southern,14.59,174.68,33,39,6,Mobile Money,Soybean,0
+64,Female,Zomba,Northern,13.31,473.4,13,17,4,Bank Transfer,Tobacco,0
+40,Male,Zomba,Northern,14.32,105.96,14,45,5,Cash,Maize,0
+63,Female,Zomba,Central,0.66,443.81,24,11,3,Bank Transfer,Tobacco,0
+60,Female,Mzuzu,Northern,4.74,486.92,34,6,1,Mobile Money,Tobacco,0
+64,Male,Zomba,Southern,13.4,129.72,44,23,8,Cash,Maize,0
+62,Female,Blantyre,Central,9.94,374.93,26,27,2,Mobile Money,Maize,0
+35,Male,Lilongwe,Central,0.6,68.13,21,46,6,Bank Transfer,Soybean,0
+55,Male,Mzuzu,Northern,16.19,232.44,28,6,7,Bank Transfer,Tobacco,0
